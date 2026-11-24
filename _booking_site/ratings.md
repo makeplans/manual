@@ -1,22 +1,22 @@
 ---
 title: "Ratings"
-description: "Ask customers to rate their reservation with a link in a follow-up email, choose the rating scale and see the results."
+description: "Ask customers to rate their reservation with a link in a follow-up email or SMS, choose the rating scale and see the results."
 nav_order: 14
 verified: 2026-11-23
 ---
 
 # Ratings
 
-You can ask customers to rate their visit. They get a link in a follow-up email after the reservation, select a score, and the rating is saved on that reservation.
+You can ask customers to rate their visit. They get a link in a follow-up email or SMS after the reservation, select a score, and the rating is saved on that reservation.
 
 ## Ask for a rating
 
 Ratings are collected through a message template of the type follow up.
 
 1. Open setup and select **Message templates**, then **New message template**.
-2. Set **Message type** to **Follow up** and **Delivery type** to **Email**.
+2. Set **Message type** to **Follow up** and **Delivery type** to **Email** or **SMS**.
 3. In **Deliver at**, write when to send it, counted from the end of the reservation. For example, `08:00 tomorrow` sends it at 8 AM the day after.
-4. Enter a **Subject**.
+4. For email, enter a **Subject**.
 5. Write the message in **Template** and include the rating link:
 
 {% raw %}
@@ -28,6 +28,8 @@ Thank you for visiting us. How was your {{ booking.service.title }}?
 Rate your visit: {{ booking.rating_link }}
 ```
 {% endraw %}
+
+   For SMS, keep the text short, for example {% raw %}`Rate your visit: {{ booking.rating_link }}`{% endraw %}. SMS templates use SMS credits.
 
 6. To ask only after certain services, select them under **Services**. Otherwise the message is sent for all services.
 7. Select **Save message template**.

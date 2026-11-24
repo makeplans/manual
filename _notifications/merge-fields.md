@@ -33,6 +33,7 @@ When the message is sent, each placeholder is replaced: the customer's name, the
 | `{{ booking.notes }}` | Notes |
 | `{{ booking.price }}` | Price |
 | `{{ booking.link }}` | A link to a page with information about the reservation |
+| `{{ booking.rating_link }}` | A link to a page where the customer can [rate the reservation]({% endraw %}{% link _booking_site/ratings.md %}{% raw %}) |
 | `{{ booking.verification_code }}` | The verification code, for SMS |
 | `{{ booking.verification_link }}` | The verification link, for email |
 | `{{ booking.terms }}` | The terms for the service, or your general terms |
