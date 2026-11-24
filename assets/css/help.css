@@ -1,0 +1,102 @@
+/* Light-only site: hide every appearance switch. */
+.VPNavBarAppearance,
+.VPNavScreenAppearance,
+.VPNavBarExtra .item.appearance {
+  display: none !important;
+}
+
+/* Home page */
+.help-home {
+  max-width: 1152px;
+  margin: 0 auto;
+  padding: 48px 24px 64px;
+}
+.help-home-hero {
+  text-align: center;
+  margin-bottom: 48px;
+}
+.help-home-hero h1 {
+  font-size: 40px;
+  line-height: 1.2;
+  font-weight: 700;
+  margin-bottom: 24px;
+}
+.help-home-hero p {
+  margin-top: 20px;
+  color: var(--vp-c-text-2);
+}
+.help-home-search {
+  display: inline-flex;
+  align-items: center;
+  gap: 12px;
+  width: 100%;
+  max-width: 560px;
+  padding: 14px 18px;
+  font-size: 16px;
+  color: var(--vp-c-text-2);
+  background: var(--vp-c-bg-alt);
+  border: 1px solid var(--vp-c-divider);
+  border-radius: 12px;
+  cursor: pointer;
+  text-align: left;
+}
+.help-home-search:hover,
+.help-home-search:focus-visible {
+  border-color: var(--vp-c-brand-1);
+}
+.help-cards {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+  gap: 16px;
+}
+.help-card {
+  display: block;
+  padding: 20px 24px;
+  border: 1px solid var(--vp-c-divider);
+  border-radius: 12px;
+  background: var(--vp-c-bg-soft);
+  transition: border-color 0.2s;
+}
+.help-card:hover {
+  border-color: var(--vp-c-brand-1);
+}
+.help-card h2 {
+  font-size: 17px;
+  font-weight: 600;
+  line-height: 1.4;
+  color: var(--vp-c-text-1);
+}
+.help-card p {
+  margin-top: 6px;
+  font-size: 14px;
+  line-height: 1.5;
+  color: var(--vp-c-text-2);
+}
+.help-popular {
+  margin-top: 48px;
+}
+.help-popular h2 {
+  font-size: 20px;
+  font-weight: 600;
+  margin-bottom: 12px;
+}
+.help-popular a {
+  color: var(--vp-c-brand-1);
+  line-height: 2;
+}
+
+/* Screenshots */
+.help-figure {
+  margin: 24px 0;
+}
+.help-figure img {
+  max-width: 100%;
+  height: auto;
+  border: 1px solid var(--vp-c-divider);
+  border-radius: 8px;
+}
+.help-figure figcaption {
+  margin-top: 8px;
+  font-size: 14px;
+  color: var(--vp-c-text-2);
+}

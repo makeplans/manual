@@ -1,0 +1,22 @@
+- title: Getting started
+  collection: getting_started
+- title: Calendar and bookings
+  collection: bookings
+- title: Resources and availability
+  collection: availability
+- title: Services and events
+  collection: services
+- title: Booking site
+  collection: booking_site
+- title: Notifications
+  collection: notifications
+- title: Payments
+  collection: payments
+- title: Integrations
+  collection: integrations
+- title: Account and billing
+  collection: account
+- title: For your customers
+  collection: customers
+- title: FAQ and troubleshooting
+  collection: faq

@@ -1,0 +1,12 @@
+- title: Getting started
+  url: /getting-started/overview/
+  collections: [getting_started]
+- title: Guides
+  url: /bookings/overview/
+  collections: [bookings, availability, services, booking_site, notifications, payments, integrations, account]
+- title: For your customers
+  url: /how-to-book/overview/
+  collections: [customers]
+- title: FAQ
+  url: /faq/overview/
+  collections: [faq]

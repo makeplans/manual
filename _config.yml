@@ -1,0 +1,80 @@
+title: MakePlans Help
+description: Learn how to set up and use MakePlans, the online booking system for appointments, classes and events.
+url: https://help.makeplans.com
+lang: en
+
+theme: jekyll-vitepress-theme
+plugins:
+  - jekyll-vitepress-theme
+  - jekyll-redirect-from
+
+exclude:
+  - vendor
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - .agents
+  - .claude
+  - tmp
+
+collections:
+  getting_started:
+    output: true
+    permalink: "/getting-started/:name/"
+  bookings:
+    output: true
+    permalink: "/bookings/:name/"
+  availability:
+    output: true
+    permalink: "/availability/:name/"
+  services:
+    output: true
+    permalink: "/services/:name/"
+  booking_site:
+    output: true
+    permalink: "/booking-site/:name/"
+  notifications:
+    output: true
+    permalink: "/notifications/:name/"
+  payments:
+    output: true
+    permalink: "/payments/:name/"
+  integrations:
+    output: true
+    permalink: "/integrations/:name/"
+  account:
+    output: true
+    permalink: "/account/:name/"
+  customers:
+    output: true
+    permalink: "/how-to-book/:name/"
+  faq:
+    output: true
+    permalink: "/faq/:name/"
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
+
+jekyll_vitepress:
+  branding:
+    site_title: MakePlans Help
+    logo:
+      default: /assets/images/logo.svg
+      alt: MakePlans
+      width: 24
+      height: 24
+  tokens:
+    light:
+      --vp-c-brand-1: "#AE554A"
+      --vp-c-brand-2: "#C46357"
+      --vp-c-brand-3: "#944840"
+      --vp-c-brand-soft: "rgba(174, 85, 74, 0.14)"
+  last_updated:
+    enabled: false
+  doc_footer:
+    enabled: true
+  footer:
+    enabled: false

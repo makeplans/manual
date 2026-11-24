@@ -1,0 +1,21 @@
+---
+layout: home
+title: Page not found
+description: The page you were looking for could not be found.
+noindex: true
+permalink: /404.html
+markdown_styles: false
+jekyll_vitepress:
+  copy_page: false
+---
+<div class="help-home">
+  <header class="help-home-hero">
+    <h1>We couldn't find that page</h1>
+    <p>The article may have moved. Try searching, or pick a topic below.</p>
+    <button type="button" class="help-home-search" onclick="document.getElementById('vp-search-button').click()">
+      <span class="vpi-search" aria-hidden="true"></span>
+      <span>Search the help articles…</span>
+    </button>
+  </header>
+  {% include section_cards.html %}
+</div>

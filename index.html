@@ -1,0 +1,33 @@
+---
+layout: home
+title: MakePlans Help
+redirect_from:
+  - /category/40-advanced
+  - /collection/1-support
+markdown_styles: false
+jekyll_vitepress:
+  copy_page: false
+---
+<div class="help-home">
+  <header class="help-home-hero">
+    <h1>How can we help?</h1>
+    <button type="button" class="help-home-search" onclick="document.getElementById('vp-search-button').click()">
+      <span class="vpi-search" aria-hidden="true"></span>
+      <span>Search the help articles…</span>
+    </button>
+    <p><a class="VPButton medium brand" href="{{ '/getting-started/overview/' | relative_url }}">Getting started →</a></p>
+  </header>
+
+  {% include section_cards.html %}
+
+  {%- if site.data.popular and site.data.popular.size > 0 %}
+  <section class="help-popular">
+    <h2>Popular articles</h2>
+    <ul>
+      {%- for item in site.data.popular %}
+      <li><a href="{{ item.url | relative_url }}">{{ item.title }}</a></li>
+      {%- endfor %}
+    </ul>
+  </section>
+  {%- endif %}
+</div>

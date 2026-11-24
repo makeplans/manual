@@ -1,0 +1,8 @@
+<div class="help-cards">
+  {%- for section in site.data.sections %}
+  <a class="help-card" href="{{ section.url | relative_url }}">
+    <h2>{{ section.title }}</h2>
+    <p>{{ section.details }}</p>
+  </a>
+  {%- endfor %}
+</div>

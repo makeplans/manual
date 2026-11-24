@@ -1,0 +1,46 @@
+# Single source for sections: used by the home page cards and the 404 page.
+# Order here is the order of the cards. Sidebar order lives in sidebar.yml.
+- key: getting_started
+  title: Getting started
+  url: /getting-started/overview/
+  details: Go from a new account to a working booking site, step by step.
+- key: bookings
+  title: Calendar and bookings
+  url: /bookings/overview/
+  details: Work with the calendar, bookings and your customer list.
+- key: availability
+  title: Resources and availability
+  url: /availability/overview/
+  details: Resources, opening hours, time off and how available times are calculated.
+- key: services
+  title: Services and events
+  url: /services/overview/
+  details: Set up what customers can book, including classes and events.
+- key: booking_site
+  title: Booking site
+  url: /booking-site/overview/
+  details: Customise the page your customers book on and add it to your website.
+- key: notifications
+  title: Notifications
+  url: /notifications/overview/
+  details: Email and SMS confirmations, reminders and who receives them.
+- key: payments
+  title: Payments
+  url: /payments/overview/
+  details: Take payment when customers book, and handle refunds and discounts.
+- key: integrations
+  title: Integrations
+  url: /integrations/overview/
+  details: Connect MakePlans to calendars, newsletters, accounting and other tools.
+- key: account
+  title: Account and billing
+  url: /account/overview/
+  details: Users, subscription, invoices, security and privacy.
+- key: customers
+  title: For your customers
+  url: /how-to-book/overview/
+  details: Short guides for the people who book with you.
+- key: faq
+  title: FAQ and troubleshooting
+  url: /faq/overview/
+  details: Quick answers to common questions and problems.

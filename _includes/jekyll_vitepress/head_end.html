@@ -1,0 +1,7 @@
+<script>
+  // The help site is light-only: screenshots are taken in light mode and there is no appearance switch.
+  try { localStorage.setItem('vitepress-theme-appearance', 'light'); } catch (e) {}
+  document.documentElement.classList.remove('dark');
+  document.documentElement.classList.add('light');
+</script>
+<link rel="stylesheet" href="{{ '/assets/css/help.css' | relative_url }}">
