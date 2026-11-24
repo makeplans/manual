@@ -3,7 +3,6 @@ title: "Approve reservations manually"
 description: "Require your approval before a reservation from the booking site is confirmed, and confirm or decline requests."
 nav_order: 6
 verified: 2026-11-23
-review: needs-espen
 ---
 
 # Approve reservations manually

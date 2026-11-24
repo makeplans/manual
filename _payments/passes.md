@@ -3,7 +3,6 @@ title: "Passes"
 description: "Sell a pass with a number of reservations paid for in advance, such as a 10-class pass."
 nav_order: 9
 verified: 2026-11-23
-review: needs-espen
 ---
 
 # Passes

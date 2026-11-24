@@ -5,7 +5,6 @@ nav_order: 2
 redirect_from:
   - /article/52-how-many-resources-do-i-need
 verified: 2026-11-23
-review: needs-espen
 ---
 
 # How many resources do I need

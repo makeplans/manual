@@ -5,7 +5,6 @@ nav_order: 11
 redirect_from:
   - /article/8-zapier-integration
 verified: 2026-11-23
-review: needs-espen
 ---
 
 # Zapier integration

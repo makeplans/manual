@@ -5,7 +5,6 @@ nav_order: 7
 redirect_from:
   - /article/80-cancel-pause-or-reactivate-your-subscription
 verified: 2026-11-23
-review: needs-espen
 ---
 
 # Pause, cancel or reactivate

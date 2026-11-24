@@ -5,7 +5,6 @@ nav_order: 9
 redirect_from:
   - /article/41-slot-frequency
 verified: 2026-11-23
-review: needs-espen
 ---
 
 # Slot frequency

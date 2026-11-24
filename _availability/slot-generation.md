@@ -5,7 +5,6 @@ nav_order: 8
 redirect_from:
   - /article/43-available-slots
 verified: 2026-11-23
-review: needs-espen
 ---
 
 # How available times are generated

@@ -3,7 +3,6 @@ title: "Waitlist"
 description: "Let customers join a waitlist when a time or an event is fully booked."
 nav_order: 8
 verified: 2026-11-23
-review: needs-espen
 ---
 
 # Waitlist

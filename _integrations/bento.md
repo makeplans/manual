@@ -5,7 +5,6 @@ nav_order: 6
 redirect_from:
   - /article/67-bento-integration
 verified: 2026-11-23
-review: needs-espen
 ---
 
 # Bento integration

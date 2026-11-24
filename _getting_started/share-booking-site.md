@@ -3,7 +3,6 @@ title: "Share your booking site"
 description: "Find the address of your booking site and get a booking button, link or QR code for it."
 nav_order: 7
 verified: 2026-11-23
-review: needs-espen
 ---
 
 # Share your booking site

@@ -3,7 +3,6 @@ title: "Customer notifications"
 description: "Choose which emails and SMS your customers receive, and turn on SMS reminders."
 nav_order: 1
 verified: 2026-11-23
-review: needs-espen
 ---
 
 # Customer notifications

@@ -5,7 +5,6 @@ nav_order: 4
 redirect_from:
   - /article/50-booking-verification
 verified: 2026-11-23
-review: needs-espen
 ---
 
 # Verification

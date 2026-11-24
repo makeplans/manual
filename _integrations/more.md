@@ -3,7 +3,6 @@ title: "More integrations"
 description: "How to connect MailMojo, Sendy, Notion, Highrise, Whereby, WhatsApp, Unloc, BestRx and Extensor."
 nav_order: 20
 verified: 2026-11-23
-review: needs-espen
 ---
 
 # More integrations

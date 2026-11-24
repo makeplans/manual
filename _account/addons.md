@@ -3,7 +3,6 @@ title: "Add-ons: your own domain and senders"
 description: "Use your own domain for the booking site, your own SMS sender name and your own email sender."
 nav_order: 4
 verified: 2026-11-23
-review: needs-espen
 ---
 
 # Add-ons: your own domain and senders

@@ -3,7 +3,6 @@ title: "Change, move or cancel a reservation"
 description: "Edit a reservation, move it to another time or resource, cancel it, and see its history."
 nav_order: 4
 verified: 2026-11-23
-review: needs-espen
 ---
 
 # Change, move or cancel a reservation

@@ -3,7 +3,6 @@ title: "Message templates"
 description: "Send extra messages per reservation: a second confirmation, reminders by email or SMS at times you choose, and follow-ups afterwards."
 nav_order: 3
 verified: 2026-11-23
-review: needs-espen
 ---
 
 # Message templates

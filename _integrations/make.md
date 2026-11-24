@@ -5,7 +5,6 @@ nav_order: 12
 redirect_from:
   - /article/49-make-integration
 verified: 2026-11-23
-review: needs-espen
 ---
 
 # Make integration

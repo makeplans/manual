@@ -3,7 +3,6 @@ title: "Ratings"
 description: "Ask customers to rate their reservation with a link in a follow-up email, choose the rating scale and see the results."
 nav_order: 14
 verified: 2026-11-23
-review: needs-espen
 ---
 
 # Ratings

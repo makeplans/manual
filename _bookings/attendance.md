@@ -3,7 +3,6 @@ title: "Attendance status and no-shows"
 description: "Mark a reservation as checked in, started, completed or no show, and keep track of customers who do not turn up."
 nav_order: 5
 verified: 2026-11-23
-review: needs-espen
 ---
 
 # Attendance status and no-shows

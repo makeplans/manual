@@ -5,7 +5,6 @@ nav_order: 5
 redirect_from:
   - /article/44-cancellation
 verified: 2026-11-23
-review: needs-espen
 ---
 
 # Cancellation by customers

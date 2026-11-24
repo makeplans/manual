@@ -3,7 +3,6 @@ title: "Gift cards"
 description: "Sell gift cards on your booking site, issue one yourself and keep track of the balance."
 nav_order: 7
 verified: 2026-11-23
-review: needs-espen
 ---
 
 # Gift cards

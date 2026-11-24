@@ -5,7 +5,6 @@ nav_order: 13
 redirect_from:
   - /article/69-room-display
 verified: 2026-11-23
-review: needs-espen
 ---
 
 # Room display

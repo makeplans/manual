@@ -5,7 +5,6 @@ seo:
 description: "Work with the calendar, reservations and your customer list."
 nav_order: 0
 verified: 2026-11-23
-review: needs-espen
 ---
 
 # Calendar and bookings

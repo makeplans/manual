@@ -5,7 +5,6 @@ nav_order: 8
 redirect_from:
   - /article/16-delete-account
 verified: 2026-11-23
-review: needs-espen
 ---
 
 # Delete your account

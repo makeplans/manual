@@ -3,7 +3,6 @@ title: "Products and add-ons"
 description: "Sell products on your booking site, and offer add-ons customers can choose together with a reservation."
 nav_order: 8
 verified: 2026-11-23
-review: needs-espen
 ---
 
 # Products and add-ons

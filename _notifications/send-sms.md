@@ -3,7 +3,6 @@ title: "Send an SMS to customers"
 description: "Send one SMS to all your customers, to customers with certain reservations, to one customer, or to everyone signed up for an event."
 nav_order: 7
 verified: 2026-11-23
-review: needs-espen
 ---
 
 # Send an SMS to customers

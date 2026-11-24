@@ -3,7 +3,6 @@ title: "Texts on the booking site"
 description: "Change the footer and the messages customers see when there are no free times, while they wait for approval and after they have booked."
 nav_order: 7
 verified: 2026-11-23
-review: needs-espen
 ---
 
 # Texts on the booking site

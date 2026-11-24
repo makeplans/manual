@@ -5,7 +5,6 @@ nav_order: 4
 redirect_from:
   - /article/94-faq-sms-and-messaging
 verified: 2026-11-23
-review: needs-espen
 ---
 
 # FAQ: SMS and messaging

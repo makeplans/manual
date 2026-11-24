@@ -5,7 +5,6 @@ nav_order: 18
 redirect_from:
   - /article/42-enable-the-api
 verified: 2026-11-23
-review: needs-espen
 ---
 
 # Enable the API

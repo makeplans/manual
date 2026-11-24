@@ -5,7 +5,6 @@ nav_order: 2
 redirect_from:
   - /article/13-mailchimp-integration
 verified: 2026-11-23
-review: needs-espen
 ---
 
 # Mailchimp integration

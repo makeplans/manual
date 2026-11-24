@@ -5,7 +5,6 @@ nav_order: 10
 redirect_from:
   - /article/92-buffer-time-between-appointments
 verified: 2026-11-23
-review: needs-espen
 ---
 
 # Buffer time between appointments

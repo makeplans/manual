@@ -5,7 +5,6 @@ nav_order: 9
 redirect_from:
   - /article/46-24sevenoffice-integration
 verified: 2026-11-23
-review: needs-espen
 ---
 
 # 24SevenOffice integration

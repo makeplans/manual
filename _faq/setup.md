@@ -5,7 +5,6 @@ nav_order: 1
 redirect_from:
   - /article/95-faq-setup
 verified: 2026-11-23
-review: needs-espen
 ---
 
 # FAQ: Setup

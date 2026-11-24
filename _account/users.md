@@ -5,7 +5,6 @@ nav_order: 2
 redirect_from:
   - /article/48-add-additional-users
 verified: 2026-11-23
-review: needs-espen
 ---
 
 # Users and access levels

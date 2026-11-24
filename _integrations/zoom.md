@@ -5,7 +5,6 @@ nav_order: 10
 redirect_from:
   - /article/37-zoom-integration
 verified: 2026-11-23
-review: needs-espen
 ---
 
 # Zoom integration

@@ -3,7 +3,6 @@ title: "Merge fields"
 description: "Insert the customer's name, the time, the service and other details into messages and texts."
 nav_order: 4
 verified: 2026-11-23
-review: needs-espen
 ---
 
 # Merge fields

@@ -3,7 +3,6 @@ title: "The agenda"
 description: "See reservations as a list by day, week or month, filter them, and find new, changed and unconfirmed reservations."
 nav_order: 2
 verified: 2026-11-23
-review: needs-espen
 ---
 
 # The agenda

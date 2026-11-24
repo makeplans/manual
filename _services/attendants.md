@@ -3,7 +3,6 @@ title: "Manage the attendants of an event"
 description: "See who has signed up for an event, add attendants yourself, check them in, message them and export the list."
 nav_order: 7
 verified: 2026-11-23
-review: needs-espen
 ---
 
 # Manage the attendants of an event

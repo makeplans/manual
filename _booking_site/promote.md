@@ -6,7 +6,6 @@ redirect_from:
   - /category/20-promotion
   - /article/21-add-booking-button-on-facebook-page
 verified: 2026-11-23
-review: needs-espen
 ---
 
 # Promote: link, button and QR code

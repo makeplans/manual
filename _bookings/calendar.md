@@ -3,7 +3,6 @@ title: "The calendar"
 description: "The calendar views, how to move between dates, filter by resource and service, and open a reservation."
 nav_order: 1
 verified: 2026-11-23
-review: needs-espen
 ---
 
 # The calendar

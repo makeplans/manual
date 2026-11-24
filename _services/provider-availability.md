@@ -3,7 +3,6 @@ title: "Different opening hours for one service"
 description: "Give a service its own opening hours per resource with the Provider setting, for example a service offered Monday to Wednesday only."
 nav_order: 4
 verified: 2026-11-23
-review: needs-espen
 ---
 
 # Different opening hours for one service

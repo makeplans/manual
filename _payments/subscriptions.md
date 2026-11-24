@@ -3,7 +3,6 @@ title: "Subscriptions"
 description: "Sell a subscription that renews at a set interval and includes a number of reservations, such as a monthly membership."
 nav_order: 10
 verified: 2026-11-23
-review: needs-espen
 ---
 
 # Subscriptions

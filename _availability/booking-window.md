@@ -5,7 +5,6 @@ nav_order: 11
 redirect_from:
   - /article/33-restrict-future-bookings
 verified: 2026-11-23
-review: needs-espen
 ---
 
 # Limit how far ahead customers can book

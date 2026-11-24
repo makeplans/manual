@@ -5,7 +5,6 @@ nav_order: 2
 redirect_from:
   - /article/84-accept-payments-with-vipps
 verified: 2026-11-23
-review: needs-espen
 ---
 
 # Accept payments with Vipps

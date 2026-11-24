@@ -5,7 +5,6 @@ nav_order: 2
 redirect_from:
   - /article/96-faq-features-and-integrations
 verified: 2026-11-23
-review: needs-espen
 ---
 
 # FAQ: Features and integrations

@@ -3,7 +3,6 @@ title: "SMS credits and senders"
 description: "What SMS costs, how to buy SMS credits, and how to change the sender of SMS and email."
 nav_order: 6
 verified: 2026-11-23
-review: needs-espen
 ---
 
 # SMS credits and senders

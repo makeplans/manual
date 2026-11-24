@@ -5,7 +5,6 @@ nav_order: 8
 redirect_from:
   - /article/79-troubleshooting-sms-and-email-delivery
 verified: 2026-11-23
-review: needs-espen
 ---
 
 # Troubleshooting SMS and email delivery

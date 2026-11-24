@@ -3,7 +3,6 @@ title: "Activate your account"
 description: "What the free trial includes, what is locked until you activate, and how to activate."
 nav_order: 8
 verified: 2026-11-23
-review: needs-espen
 ---
 
 # Activate your account

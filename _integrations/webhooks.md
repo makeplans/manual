@@ -3,7 +3,6 @@ title: "Webhooks"
 description: "Send a message to your own system when something happens in MakePlans."
 nav_order: 15
 verified: 2026-11-23
-review: needs-espen
 ---
 
 # Webhooks

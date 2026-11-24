@@ -7,7 +7,6 @@ nav_order: 0
 redirect_from:
   - /category/28-account
 verified: 2026-11-23
-review: needs-espen
 ---
 
 # Account and billing

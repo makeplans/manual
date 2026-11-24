@@ -3,7 +3,6 @@ title: "Delete old data"
 description: "Delete old reservations and customers, once or automatically, to avoid keeping personal data longer than you need."
 nav_order: 10
 verified: 2026-11-23
-review: needs-espen
 ---
 
 # Delete old data

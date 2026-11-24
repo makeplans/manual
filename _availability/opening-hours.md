@@ -6,7 +6,6 @@ redirect_from:
   - /article/9-defining-opening-hours
   - /article/29-bookings-within-a-limited-timeframe
 verified: 2026-11-23
-review: needs-espen
 ---
 
 # Opening hours

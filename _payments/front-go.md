@@ -3,7 +3,6 @@ title: "Accept payments with Front Go"
 description: "Connect Front Go, a payment provider for Norway, to take payment when customers book."
 nav_order: 4
 verified: 2026-11-23
-review: needs-espen
 ---
 
 # Accept payments with Front Go

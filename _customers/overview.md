@@ -7,7 +7,6 @@ nav_order: 0
 redirect_from:
   - /collection/72-how-to-use-the-booking-site
 verified: 2026-11-23
-review: needs-espen
 ---
 
 # How to book

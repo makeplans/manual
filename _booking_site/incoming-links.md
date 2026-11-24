@@ -5,7 +5,6 @@ nav_order: 11
 redirect_from:
   - /article/58-incoming-links
 verified: 2026-11-23
-review: needs-espen
 ---
 
 # Store values from incoming links

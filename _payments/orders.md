@@ -3,7 +3,6 @@ title: "Orders"
 description: "What an order is, how customers place one on the booking site, and where to find orders, passes, subscriptions, gift cards and coupons."
 nav_order: 11
 verified: 2026-11-23
-review: needs-espen
 ---
 
 # Orders

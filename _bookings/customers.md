@@ -5,7 +5,6 @@ nav_order: 7
 redirect_from:
   - /article/88-fixing-customer-record-problems
 verified: 2026-11-23
-review: needs-espen
 ---
 
 # Customers

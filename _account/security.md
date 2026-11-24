@@ -5,7 +5,6 @@ nav_order: 12
 redirect_from:
   - /article/62-security-considerations
 verified: 2026-11-23
-review: needs-espen
 ---
 
 # Security

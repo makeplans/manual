@@ -3,7 +3,6 @@ title: "General settings"
 description: "Open or close the booking site, limit it to existing customers, show your address and add tracking."
 nav_order: 2
 verified: 2026-11-23
-review: needs-espen
 ---
 
 # General settings

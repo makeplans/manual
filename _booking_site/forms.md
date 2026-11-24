@@ -3,7 +3,6 @@ title: "Reservation form and registration form"
 description: "Add a text above the reservation form and change which fields customers fill in."
 nav_order: 8
 verified: 2026-11-23
-review: needs-espen
 ---
 
 # Reservation form and registration form

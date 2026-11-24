@@ -5,7 +5,6 @@ nav_order: 8
 redirect_from:
   - /article/34-visma-eaccounting-integration
 verified: 2026-11-23
-review: needs-espen
 ---
 
 # Visma eAccounting integration

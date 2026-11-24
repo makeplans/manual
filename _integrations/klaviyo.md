@@ -5,7 +5,6 @@ nav_order: 4
 redirect_from:
   - /article/77-klaviyo-integration
 verified: 2026-11-23
-review: needs-espen
 ---
 
 # Klaviyo integration

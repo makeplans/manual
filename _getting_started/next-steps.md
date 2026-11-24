@@ -3,7 +3,6 @@ title: "Next steps"
 description: "What to set up after your booking site is live."
 nav_order: 9
 verified: 2026-11-23
-review: needs-espen
 ---
 
 # Next steps

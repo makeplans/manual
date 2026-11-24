@@ -5,7 +5,6 @@ nav_order: 12
 redirect_from:
   - /article/68-link-to-booking-form-from-external-datepicker
 verified: 2026-11-23
-review: needs-espen
 ---
 
 # Link straight to the reservation form

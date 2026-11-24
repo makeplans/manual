@@ -5,7 +5,6 @@ nav_order: 11
 redirect_from:
   - /article/27-gdpr
 verified: 2026-11-23
-review: needs-espen
 ---
 
 # GDPR and privacy

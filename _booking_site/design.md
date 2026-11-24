@@ -6,7 +6,6 @@ redirect_from:
   - /article/61-themes-on-the-booking-site
   - /article/36-customise-the-booking-site-with-css
 verified: 2026-11-23
-review: needs-espen
 ---
 
 # Design: themes, logo and CSS

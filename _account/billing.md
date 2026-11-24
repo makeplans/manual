@@ -5,7 +5,6 @@ nav_order: 5
 redirect_from:
   - /article/18-how-will-i-be-billed
 verified: 2026-11-23
-review: needs-espen
 ---
 
 # How billing works

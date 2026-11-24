@@ -5,7 +5,6 @@ nav_order: 5
 redirect_from:
   - /article/97-faq-troubleshooting
 verified: 2026-11-23
-review: needs-espen
 ---
 
 # FAQ: Troubleshooting

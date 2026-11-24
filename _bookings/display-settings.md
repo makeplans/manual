@@ -3,7 +3,6 @@ title: "Calendar and display settings"
 description: "The UX settings: calendar grid, weekends, the text shown on reservations in the calendar, no-show warnings and your own names for resources and services."
 nav_order: 9
 verified: 2026-11-23
-review: needs-espen
 ---
 
 # Calendar and display settings

@@ -5,7 +5,6 @@ nav_order: 3
 redirect_from:
   - /article/90-languages-on-the-booking-site
 verified: 2026-11-23
-review: needs-espen
 ---
 
 # Languages

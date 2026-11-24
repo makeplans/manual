@@ -3,7 +3,6 @@ title: "Create your account"
 description: "Sign up for MakePlans and use the setup wizard to add your first services and resources."
 nav_order: 2
 verified: 2026-11-23
-review: needs-espen
 ---
 
 # Create your account

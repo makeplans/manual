@@ -5,7 +5,6 @@ nav_order: 14
 redirect_from:
   - /article/14-salesforce-integration
 verified: 2026-11-23
-review: needs-espen
 ---
 
 # Salesforce integration

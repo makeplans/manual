@@ -3,7 +3,6 @@ title: "Find your way around"
 description: "The main menu, the setup menu and the user menu in the MakePlans admin."
 nav_order: 3
 verified: 2026-11-23
-review: needs-espen
 ---
 
 # Find your way around

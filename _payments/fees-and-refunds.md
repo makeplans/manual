@@ -5,7 +5,6 @@ nav_order: 5
 redirect_from:
   - /article/85-payment-fees-refunds-and-discount-codes
 verified: 2026-11-23
-review: needs-espen
 ---
 
 # Fees, refunds and no-shows

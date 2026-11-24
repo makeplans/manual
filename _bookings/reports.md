@@ -3,7 +3,6 @@ title: "Reports"
 description: "The reports in MakePlans: reservations, customers, revenue, resources, services, utilization, no-shows, ratings, events and timing."
 nav_order: 8
 verified: 2026-11-23
-review: needs-espen
 ---
 
 # Reports

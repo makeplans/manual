@@ -5,7 +5,6 @@ nav_order: 7
 redirect_from:
   - /article/38-fiken-integration
 verified: 2026-11-23
-review: needs-espen
 ---
 
 # Fiken integration

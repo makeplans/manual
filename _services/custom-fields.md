@@ -5,7 +5,6 @@ nav_order: 9
 redirect_from:
   - /article/51-using-custom-fields
 verified: 2026-11-23
-review: needs-espen
 ---
 
 # Custom fields

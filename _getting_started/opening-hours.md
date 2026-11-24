@@ -3,7 +3,6 @@ title: "Set your opening hours"
 description: "Set the days and times each resource can be booked, and change them for a single week."
 nav_order: 4
 verified: 2026-11-23
-review: needs-espen
 ---
 
 # Set your opening hours

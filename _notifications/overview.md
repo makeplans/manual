@@ -7,7 +7,6 @@ nav_order: 0
 redirect_from:
   - /article/82-notifications-editing-messages-and-choosing-recipients
 verified: 2026-11-23
-review: needs-espen
 ---
 
 # Notifications

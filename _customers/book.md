@@ -3,7 +3,6 @@ title: "Book an appointment"
 description: "How to book an appointment on a MakePlans booking site, step by step."
 nav_order: 1
 verified: 2026-11-23
-review: needs-espen
 ---
 
 # Book an appointment

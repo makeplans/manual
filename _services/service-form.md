@@ -5,7 +5,6 @@ nav_order: 2
 redirect_from:
   - /article/70-service-form
 verified: 2026-11-23
-review: needs-espen
 ---
 
 # Service form

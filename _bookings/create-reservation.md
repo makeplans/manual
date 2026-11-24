@@ -3,7 +3,6 @@ title: "Create a reservation"
 description: "Add a reservation for a customer in the admin, block time with a busy reservation, and repeat a reservation."
 nav_order: 3
 verified: 2026-11-23
-review: needs-espen
 ---
 
 # Create a reservation

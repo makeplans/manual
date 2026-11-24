@@ -3,7 +3,6 @@ title: "Adjust your services"
 description: "Set the duration, price and resources for a service, and add new services."
 nav_order: 5
 verified: 2026-11-23
-review: needs-espen
 ---
 
 # Adjust your services

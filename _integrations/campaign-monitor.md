@@ -5,7 +5,6 @@ nav_order: 5
 redirect_from:
   - /article/19-campaign-monitor-integration
 verified: 2026-11-23
-review: needs-espen
 ---
 
 # Campaign Monitor integration

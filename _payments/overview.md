@@ -7,7 +7,6 @@ nav_order: 0
 redirect_from:
   - /article/23-accept-payments-with-quickpay
 verified: 2026-11-23
-review: needs-espen
 ---
 
 # Payments and sales

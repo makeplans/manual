@@ -5,7 +5,6 @@ nav_order: 5
 redirect_from:
   - /article/91-vacations-holidays-and-blocking-dates
 verified: 2026-11-23
-review: needs-espen
 ---
 
 # Vacations, holidays and blocking dates

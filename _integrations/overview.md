@@ -5,7 +5,6 @@ nav_order: 0
 redirect_from:
   - /category/7-integrations
 verified: 2026-11-23
-review: needs-espen
 ---
 
 # Integrations

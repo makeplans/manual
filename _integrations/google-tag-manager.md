@@ -5,7 +5,6 @@ nav_order: 17
 redirect_from:
   - /article/25-google-tag-manager
 verified: 2026-11-23
-review: needs-espen
 ---
 
 # Google Tag Manager

@@ -5,7 +5,6 @@ nav_order: 1
 redirect_from:
   - /article/54-show-bookings-from-makeplans-in-other-calendars
 verified: 2026-11-23
-review: needs-espen
 ---
 
 # Show reservations in other calendars

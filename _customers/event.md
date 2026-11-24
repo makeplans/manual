@@ -3,7 +3,6 @@ title: "Sign up for an event or class"
 description: "How to sign up for an event, class or course on a MakePlans booking site."
 nav_order: 2
 verified: 2026-11-23
-review: needs-espen
 ---
 
 # Sign up for an event or class

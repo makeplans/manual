@@ -3,7 +3,6 @@ title: "Edit the standard messages"
 description: "Change the text of confirmations, verification messages, reminders and cancellations sent by email and SMS."
 nav_order: 2
 verified: 2026-11-23
-review: needs-espen
 ---
 
 # Edit the standard messages

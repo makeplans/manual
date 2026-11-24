@@ -3,7 +3,6 @@ title: "Coupon codes"
 description: "Create coupon codes that give customers a discount as an amount or a percentage, with limits on time, use and services."
 nav_order: 6
 verified: 2026-11-23
-review: needs-espen
 ---
 
 # Coupon codes

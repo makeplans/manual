@@ -3,7 +3,6 @@ title: "Categories"
 description: "Group services and event types into categories so customers choose a category first on the booking site."
 nav_order: 5
 verified: 2026-11-23
-review: needs-espen
 ---
 
 # Categories

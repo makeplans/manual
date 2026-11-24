@@ -5,7 +5,6 @@ nav_order: 16
 redirect_from:
   - /article/24-google-analytics
 verified: 2026-11-23
-review: needs-espen
 ---
 
 # Google Analytics

@@ -5,7 +5,6 @@ nav_order: 1
 redirect_from:
   - /article/26-what-is-a-resource
 verified: 2026-11-23
-review: needs-espen
 ---
 
 # What is a resource

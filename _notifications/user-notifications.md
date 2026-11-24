@@ -3,7 +3,6 @@ title: "Notifications to you and your staff"
 description: "Choose who in your business is told about new reservations, by email or SMS, for the whole account and per resource."
 nav_order: 5
 verified: 2026-11-23
-review: needs-espen
 ---
 
 # Notifications to you and your staff

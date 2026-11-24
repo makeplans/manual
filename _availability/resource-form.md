@@ -5,7 +5,6 @@ nav_order: 3
 redirect_from:
   - /article/71-resource-form
 verified: 2026-11-23
-review: needs-espen
 ---
 
 # Resource form

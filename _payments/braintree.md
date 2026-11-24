@@ -5,7 +5,6 @@ nav_order: 3
 redirect_from:
   - /article/22-accept-payments-with-braintree
 verified: 2026-11-23
-review: needs-espen
 ---
 
 # Accept payments with Braintree

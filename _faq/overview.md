@@ -7,7 +7,6 @@ nav_order: 0
 redirect_from:
   - /category/98-faq
 verified: 2026-11-23
-review: needs-espen
 ---
 
 # FAQ and troubleshooting

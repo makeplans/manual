@@ -5,7 +5,6 @@ nav_order: 1
 redirect_from:
   - /article/11-what-is-the-difference-between-appointment-booking-and-event-types
 verified: 2026-11-23
-review: needs-espen
 ---
 
 # Appointments and events: the difference

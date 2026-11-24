@@ -3,7 +3,6 @@ title: "See your reservations"
 description: "Log in to a booking site to see your upcoming and earlier reservations."
 nav_order: 3
 verified: 2026-11-23
-review: needs-espen
 ---
 
 # See your reservations

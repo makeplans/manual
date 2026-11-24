@@ -6,7 +6,6 @@ redirect_from:
   - /article/83-embedding-makeplans-in-your-website
   - /article/47-add-to-webflow
 verified: 2026-11-23
-review: needs-espen
 ---
 
 # Embed in your website

@@ -3,7 +3,6 @@ title: "What is MakePlans"
 description: "The terms MakePlans uses: resources, services, event types, reservations and the booking site."
 nav_order: 1
 verified: 2026-11-23
-review: needs-espen
 ---
 
 # What is MakePlans

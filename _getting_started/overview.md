@@ -5,7 +5,6 @@ seo:
 description: "Go from a new account to a working booking site, step by step."
 nav_order: 0
 verified: 2026-11-23
-review: needs-espen
 ---
 
 # Getting started

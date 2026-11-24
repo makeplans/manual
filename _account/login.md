@@ -5,7 +5,6 @@ nav_order: 3
 redirect_from:
   - /article/89-login-and-access-troubleshooting
 verified: 2026-11-23
-review: needs-espen
 ---
 
 # Your profile, password and login

@@ -5,7 +5,6 @@ nav_order: 9
 redirect_from:
   - /article/86-exporting-importing-and-reporting
 verified: 2026-11-23
-review: needs-espen
 ---
 
 # Export and import data

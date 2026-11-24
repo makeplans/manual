@@ -5,7 +5,6 @@ nav_order: 7
 redirect_from:
   - /article/99-daily-workload-points
 verified: 2026-11-23
-review: needs-espen
 ---
 
 # Daily workload points

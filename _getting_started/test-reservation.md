@@ -3,7 +3,6 @@ title: "Make a test reservation"
 description: "Try a reservation from the admin and from your booking site before you share it with customers."
 nav_order: 6
 verified: 2026-11-23
-review: needs-espen
 ---
 
 # Make a test reservation

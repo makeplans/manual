@@ -3,7 +3,6 @@ title: "Move reservations between resources"
 description: "Move all reservations and events from one resource to another, for example when an employee leaves."
 nav_order: 12
 verified: 2026-11-23
-review: needs-espen
 ---
 
 # Move reservations between resources

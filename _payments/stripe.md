@@ -5,7 +5,6 @@ nav_order: 1
 redirect_from:
   - /article/17-accept-payments-with-stripe
 verified: 2026-11-23
-review: needs-espen
 ---
 
 # Accept payments with Stripe

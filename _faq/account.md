@@ -5,7 +5,6 @@ nav_order: 3
 redirect_from:
   - /article/93-faq-account-and-billing
 verified: 2026-11-23
-review: needs-espen
 ---
 
 # FAQ: Account and billing

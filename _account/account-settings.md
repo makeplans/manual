@@ -3,7 +3,6 @@ title: "Account settings"
 description: "Change your company name, the address of your booking site, language, currency, time zone and default payment provider."
 nav_order: 1
 verified: 2026-11-23
-review: needs-espen
 ---
 
 # Account settings

@@ -5,7 +5,6 @@ nav_order: 6
 redirect_from:
   - /article/87-events-and-classes-in-practice
 verified: 2026-11-23
-review: needs-espen
 ---
 
 # Event types and events

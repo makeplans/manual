@@ -5,7 +5,6 @@ nav_order: 6
 redirect_from:
   - /article/81-invoices-receipts-and-paying-for-your-subscription
 verified: 2026-11-23
-review: needs-espen
 ---
 
 # Invoices, receipts and paying
