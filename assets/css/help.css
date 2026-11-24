@@ -100,3 +100,14 @@
   font-size: 14px;
   color: var(--vp-c-text-2);
 }
+
+/* The How to book guide is for end customers, so it gets its own sidebar:
+   on those pages only that group shows, and everywhere else it is hidden.
+   The theme keeps one sidebar across page loads and marks the current group with .has-active. */
+.VPSidebar:has([data-collection="customers"].has-active) .group:not(:has([data-collection="customers"])) {
+  display: none;
+}
+
+.VPSidebar:not(:has([data-collection="customers"].has-active)) .group:has([data-collection="customers"]) {
+  display: none;
+}
