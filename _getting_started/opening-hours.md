@@ -20,7 +20,7 @@ Default availability is the normal week for a resource.
 4. Enter the **From** and **To** time for each day.
 5. Select **Save resource**.
 
-{% include figure.html src="/assets/images/getting-started/opening-hours/01-default-availability.png" alt="The resource form with default availability for each weekday" %}
+{% include figure.html src="/assets/images/getting-started/opening-hours/01-default-availability.webp" alt="The resource form with default availability for each weekday" %}
 
 Repeat this for each resource. Different resources can have different hours.
 

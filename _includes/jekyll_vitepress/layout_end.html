@@ -1,0 +1,30 @@
+{%- comment -%}
+  HelpScout Beacon (the "?" support bubble). The ID is set in _config.yml.
+  It is not shown on the How to book guide: those readers are our clients' customers
+  and should contact the business they booked with.
+{%- endcomment -%}
+{% if site.helpscout_beacon_id %}
+<script>!function(e,t,n){function a(){var e=t.getElementsByTagName("script")[0],n=t.createElement("script");n.type="text/javascript",n.async=!0,n.src="https://beacon-v2.helpscout.net",e.parentNode.insertBefore(n,e)}if(e.Beacon=n=function(t,n,a){e.Beacon.readyQueue.push({method:t,options:n,data:a})},n.readyQueue=[],"complete"===t.readyState)return a();e.attachEvent?e.attachEvent("onload",a):e.addEventListener("load",a,!1)}(window,document,window.Beacon||function(){});</script>
+<script>
+  (function () {
+    var beaconId = {{ site.helpscout_beacon_id | jsonify }};
+    var shown = false;
+
+    function sync() {
+      var state = document.getElementById('vp-page-state');
+      var forCustomers = !!state && state.getAttribute('data-collection') === 'customers';
+      if (forCustomers && shown) {
+        window.Beacon('destroy');
+        shown = false;
+      } else if (!forCustomers && !shown) {
+        window.Beacon('init', beaconId);
+        shown = true;
+      }
+    }
+
+    sync();
+    // The theme swaps articles without a full page load, so check again after each one.
+    document.addEventListener('turbo:frame-load', sync);
+  })();
+</script>
+{% endif %}

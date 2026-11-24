@@ -14,7 +14,7 @@ These are the messages MakePlans sends to you, not to your customers.
 
 Open setup and select **Notifications - user**. Select **Save** after your changes.
 
-{% include figure.html src="/assets/images/notifications/user/01-user-notifications.png" alt="The User notifications page with email, SMS, automatic messages and custom notification content" %}
+{% include figure.html src="/assets/images/notifications/user/01-user-notifications.webp" alt="The User notifications page with email, SMS, automatic messages and custom notification content" %}
 
 | Setting | What it does |
 |---|---|

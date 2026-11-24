@@ -17,7 +17,7 @@ The wizard created your services with a title and a duration. Before you share y
 3. Change the fields you need. The ones to check first are listed below.
 4. Select **Save service**.
 
-{% include figure.html src="/assets/images/getting-started/services/01-service-form.png" alt="The service form with title, duration, price and the resources that offer the service" %}
+{% include figure.html src="/assets/images/getting-started/services/01-service-form.webp" alt="The service form with title, duration, price and the resources that offer the service" %}
 
 | Field | What it does |
 |---|---|

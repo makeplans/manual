@@ -12,7 +12,7 @@ Customers reach your booking site through its address. You can link to it from y
 
 Select the cog to open setup, then select **Promote**. The page shows the address of your booking site and three ways to share it.
 
-{% include figure.html src="/assets/images/getting-started/share/01-promote.png" alt="The Promote page with the booking button generator, link and QR code" %}
+{% include figure.html src="/assets/images/getting-started/share/01-promote.webp" alt="The Promote page with the booking button generator, link and QR code" %}
 
 ## Booking button for your website
 

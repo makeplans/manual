@@ -12,7 +12,7 @@ review: needs-espen
 2. Enter your email address or mobile number, then the code you receive.
 3. **My reservations** lists your upcoming reservations. Select **All**, **Completed** or **Cancelled** to see others.
 
-{% include figure.html src="/assets/images/how-to-book/06-my-reservations.png" alt="My reservations with one upcoming reservation and the tabs Upcoming, All, Completed and Cancelled" %}
+{% include figure.html src="/assets/images/how-to-book/06-my-reservations.webp" alt="My reservations with one upcoming reservation and the tabs Upcoming, All, Completed and Cancelled" %}
 
 From here you can also:
 

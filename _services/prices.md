@@ -34,7 +34,7 @@ Use **Prices at given times** to charge more or less on certain days or at certa
 5. Select **Add price** again for more periods, or **Remove** to delete one.
 6. Select **Save service**.
 
-{% include figure.html src="/assets/images/services/prices/01-prices-at-given-times.png" alt="The service form with one price rule: Fridays from 15:00 to 17:00 at a price of 65" caption="The standard price is 55. Reservations that start on a Friday between 15:00 and 17:00 cost 65." %}
+{% include figure.html src="/assets/images/services/prices/01-prices-at-given-times.webp" alt="The service form with one price rule: Fridays from 15:00 to 17:00 at a price of 65" caption="The standard price is 55. Reservations that start on a Friday between 15:00 and 17:00 cost 65." %}
 
 A reservation that starts inside one of the periods gets that price. All other times use the standard price.
 

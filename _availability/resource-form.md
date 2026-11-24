@@ -12,7 +12,7 @@ review: needs-espen
 
 To add a resource, open setup, select **Resources**, then **New resource**. To change one, select the pencil next to it.
 
-{% include figure.html src="/assets/images/availability/resource-form/02-resource-form.png" alt="The resource form with all fields" %}
+{% include figure.html src="/assets/images/availability/resource-form/02-resource-form.webp" alt="The resource form with all fields" %}
 
 ## Fields
 
@@ -32,7 +32,7 @@ Select **Save resource** when you are done.
 
 Select the name of a resource in the list to see a summary of its settings.
 
-{% include figure.html src="/assets/images/availability/resource-form/01-resource-page.png" alt="The resource page with booking settings, notifications and sharing" %}
+{% include figure.html src="/assets/images/availability/resource-form/01-resource-page.webp" alt="The resource page with booking settings, notifications and sharing" %}
 
 From this page you can also:
 

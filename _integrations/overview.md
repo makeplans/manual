@@ -12,6 +12,8 @@ review: needs-espen
 
 Integrations connect MakePlans to other services you use. You find them in setup under **Integrations**. Select one to connect it.
 
+{% include figure.html src="/assets/images/integrations/overview/01-integrations-list.webp" alt="The Integrations page in setup with the list of services" %}
+
 ## Calendar
 
 - [Show reservations in other calendars]({% link _integrations/calendars.md %})

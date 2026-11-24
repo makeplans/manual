@@ -17,6 +17,8 @@ A webhook sends a message to an address in your own system when something happen
 3. Enter the **Event** and the **Target URL**.
 4. Keep **Active** ticked and select **Save webhook**.
 
+{% include figure.html src="/assets/images/integrations/webhooks/01-new-webhook.webp" alt="The new webhook form with Event, Target URL and Active" %}
+
 ## Verify that a message comes from MakePlans
 
 The **Account secret** on the Webhooks page is used to verify incoming messages. Treat it like a password.

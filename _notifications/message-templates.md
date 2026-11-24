@@ -25,7 +25,7 @@ A message template sends an email or SMS for each reservation, at a time you cho
 5. Write the message in **Template**. Use [merge fields]({% link _notifications/merge-fields.md %}) for the customer's name, the time and other details.
 6. Select **Save message template**.
 
-{% include figure.html src="/assets/images/notifications/templates/01-message-template.png" alt="A message template of type Reminder, delivered by email one week before, with a subject and a text using merge fields" %}
+{% include figure.html src="/assets/images/notifications/templates/01-message-template.webp" alt="A message template of type Reminder, delivered by email one week before, with a subject and a text using merge fields" %}
 
 ## What the time is counted from
 

@@ -10,7 +10,7 @@ review: needs-espen
 
 Open the reservation from the **Calendar** or the **Agenda**. Its page shows the resource, the service, the time, the status and the customer, with a log of what has happened to it.
 
-{% include figure.html src="/assets/images/bookings/reservation/01-reservation-page.png" alt="A reservation page with the status menu open, Cancel reservation and Show in calendar" %}
+{% include figure.html src="/assets/images/bookings/reservation/01-reservation-page.webp" alt="A reservation page with the status menu open, Cancel reservation and Show in calendar" %}
 
 ## Change a reservation
 

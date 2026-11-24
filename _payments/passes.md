@@ -19,13 +19,13 @@ A pass is a number of reservations the customer pays for in advance, such as a 1
 5. Under **Valid for the following services**, tick the services and event types the pass can be used for. If you tick none, it is valid for all.
 6. Save.
 
-{% include figure.html src="/assets/images/payments/passes/01-pass-form.png" alt="The pass form for a 10-class yoga pass with price, number of reservations, days valid and the service it is valid for" %}
+{% include figure.html src="/assets/images/payments/passes/01-pass-form.webp" alt="The pass form for a 10-class yoga pass with price, number of reservations, days valid and the service it is valid for" %}
 
 ## What customers see
 
 The pass has its own page on the booking site with the price, the number of reservations and how long it is valid. Customers select **Add to cart** and complete the order.
 
-{% include figure.html src="/assets/images/payments/passes/02-pass-on-booking-site.png" alt="The pass on the booking site with price, 10 reservations, valid for 90 days and an Add to cart button" %}
+{% include figure.html src="/assets/images/payments/passes/02-pass-on-booking-site.webp" alt="The pass on the booking site with price, 10 reservations, valid for 90 days and an Add to cart button" %}
 
 ## Keep track
 

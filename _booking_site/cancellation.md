@@ -19,6 +19,8 @@ Customers can cancel their own reservations on the booking site. On a new accoun
 3. Set the **Cancellation period**, written in plain English and counted from the start of the reservation. For example, `2 days before` lets customers cancel until two days before. Leave it empty to allow cancellation right up to the start.
 4. Select **Save**.
 
+{% include figure.html src="/assets/images/booking-site/cancellation/01-cancellation-rules.webp" alt="Allow cancellations by customer ticked, with the cancellation period set to 24 hours before" %}
+
 Reservations that are paid in advance cannot be cancelled by the customer.
 
 ## Different rules for one service or event

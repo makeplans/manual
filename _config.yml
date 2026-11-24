@@ -3,6 +3,9 @@ description: Learn how to set up and use MakePlans, the online booking system fo
 url: https://help.makeplans.com
 lang: en
 
+# HelpScout Beacon shown on every page except the How to book guide. Remove to turn it off.
+helpscout_beacon_id: 2bba29c3-760a-41bb-a85e-5f762bc95294
+
 theme: jekyll-vitepress-theme
 plugins:
   - jekyll-vitepress-theme

@@ -16,7 +16,7 @@ Two settings decide the period customers can book in: how soon the first availab
 2. Fill in **Do not allow reservations until** and **Do not allow reservations after**.
 3. Select **Save**.
 
-{% include figure.html src="/assets/images/availability/booking-window/01-booking-rules.png" alt="The Booking rules page" %}
+{% include figure.html src="/assets/images/availability/booking-window/01-booking-rules.webp" alt="The Booking rules page" %}
 
 ## Do not allow reservations until
 

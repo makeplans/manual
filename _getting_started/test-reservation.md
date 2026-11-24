@@ -21,7 +21,7 @@ This is how you add a reservation for someone who calls or drops by.
 5. Set the date and start time under **Booked from**. The end time follows the duration of the service. The times that are free that day are listed under **Available slots** on the left.
 6. Select **Save appointment**.
 
-{% include figure.html src="/assets/images/getting-started/test-reservation/01-new-reservation.png" alt="The new reservation form filled in with a customer, a service, a resource and a time" %}
+{% include figure.html src="/assets/images/getting-started/test-reservation/01-new-reservation.webp" alt="The new reservation form filled in with a customer, a service, a resource and a time" %}
 
 The reservation appears in the calendar in the colour of its resource.
 
@@ -35,11 +35,11 @@ The reservation appears in the calendar in the colour of its resource.
 6. The first time, enter your name and mobile phone number and select **Register**. The phone field is preset to your account's country, so a local number without country code works.
 7. Check the details and select **Complete booking**.
 
-{% include figure.html src="/assets/images/getting-started/test-reservation/02-choose-time.png" alt="The booking site with a date and a time selected, and the Continue button" %}
+{% include figure.html src="/assets/images/getting-started/test-reservation/02-choose-time.webp" alt="The booking site with a date and a time selected, and the Continue button" %}
 
 The booking site confirms the reservation. From this page a customer can add it to their own calendar, reschedule or cancel.
 
-{% include figure.html src="/assets/images/getting-started/test-reservation/03-confirmed.png" alt="The booking site page confirming the reservation" %}
+{% include figure.html src="/assets/images/getting-started/test-reservation/03-confirmed.webp" alt="The booking site page confirming the reservation" %}
 
 ## Check the result
 

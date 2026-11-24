@@ -18,7 +18,7 @@ A coupon code gives the customer a discount when they pay for a reservation. The
 4. Enter a **Title** for your own reference.
 5. Select **Save coupon**.
 
-{% include figure.html src="/assets/images/payments/coupons/01-coupon-form.png" alt="The coupon form with the code MEMBER20, a 20 percent discount and a validity period" %}
+{% include figure.html src="/assets/images/payments/coupons/01-coupon-form.webp" alt="The coupon form with the code MEMBER20, a 20 percent discount and a validity period" %}
 
 ## Limit a coupon code
 

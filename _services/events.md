@@ -33,7 +33,7 @@ The other fields work as on the [service form]({% link _services/service-form.md
 4. Check **Max nr of attendants** and **Price including all taxes**.
 5. Select **Save event**.
 
-{% include figure.html src="/assets/images/services/events/01-new-event.png" alt="The new event form for a Morning yoga event that repeats every week for 8 occurrences" %}
+{% include figure.html src="/assets/images/services/events/01-new-event.webp" alt="The new event form for a Morning yoga event that repeats every week for 8 occurrences" %}
 
 | Field | What it does |
 |---|---|

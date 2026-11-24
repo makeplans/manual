@@ -12,7 +12,7 @@ The admin has two levels: a main menu for daily work, and a setup menu for every
 
 ## The main menu
 
-{% include figure.html src="/assets/images/getting-started/find-your-way-around/01-calendar.png" alt="The calendar in week view with the main menu across the top" %}
+{% include figure.html src="/assets/images/getting-started/find-your-way-around/01-calendar.webp" alt="The calendar in week view with the main menu across the top" %}
 
 | Menu item | What you do there |
 |---|---|
@@ -31,7 +31,7 @@ On the right are two icons:
 
 Select the cog to open setup. The menu on the left lists everything you can configure.
 
-{% include figure.html src="/assets/images/getting-started/find-your-way-around/02-setup-menu.png" alt="The setup page with the setup menu on the left" %}
+{% include figure.html src="/assets/images/getting-started/find-your-way-around/02-setup-menu.webp" alt="The setup page with the setup menu on the left" %}
 
 These are the ones you will use first:
 

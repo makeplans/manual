@@ -17,7 +17,7 @@ Customers make most reservations themselves on the booking site. You add one in 
 5. Set the date and start time under **Booked from**. **Booked to** follows the duration of the service.
 6. Select **Save appointment**.
 
-{% include figure.html src="/assets/images/getting-started/test-reservation/01-new-reservation.png" alt="The new reservation form filled in with a customer, a service, a resource and a time" %}
+{% include figure.html src="/assets/images/getting-started/test-reservation/01-new-reservation.webp" alt="The new reservation form filled in with a customer, a service, a resource and a time" %}
 
 ## Find a free time
 

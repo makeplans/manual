@@ -10,7 +10,7 @@ review: needs-espen
 
 Open setup and select **Account**. Select **Save** after your changes.
 
-{% include figure.html src="/assets/images/account/settings/01-account-settings.png" alt="The account settings page with company name, subdomain, contact details, country, time zone, language and currency" %}
+{% include figure.html src="/assets/images/account/settings/01-account-settings.webp" alt="The account settings page with company name, subdomain, contact details, country, time zone, language and currency" %}
 
 | Field | What it does |
 |---|---|

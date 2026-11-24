@@ -10,7 +10,7 @@ review: needs-espen
 
 The **Agenda** lists your reservations and events in time order. It is the quickest way to see what is coming up and to find a particular reservation.
 
-{% include figure.html src="/assets/images/bookings/agenda/01-agenda-week.png" alt="The agenda for one week, with the period and filters on the left and the reservations per day on the right" %}
+{% include figure.html src="/assets/images/bookings/agenda/01-agenda-week.webp" alt="The agenda for one week, with the period and filters on the left and the reservations per day on the right" %}
 
 Each line shows the time, the resource, the service and the customer. A customer who has not been in before is marked "New customer". Select a line to open the reservation.
 

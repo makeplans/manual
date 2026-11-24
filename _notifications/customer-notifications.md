@@ -10,7 +10,7 @@ review: needs-espen
 
 Open setup and select **Notifications - customer**. Select **Save** after your changes.
 
-{% include figure.html src="/assets/images/notifications/customer/01-customer-notifications.png" alt="The Customer notifications page with SMS reminders and the automatic messages" %}
+{% include figure.html src="/assets/images/notifications/customer/01-customer-notifications.webp" alt="The Customer notifications page with SMS reminders and the automatic messages" %}
 
 ## SMS reminders
 

@@ -10,7 +10,7 @@ review: needs-espen
 
 Open setup and select **Communication**. The page has one field for each standard message, grouped by SMS and email. Select **Save** at the bottom when you are done.
 
-{% include figure.html src="/assets/images/notifications/communication/01-communication.png" alt="The Communication page with the SMS fields at the top" %}
+{% include figure.html src="/assets/images/notifications/communication/01-communication.webp" alt="The Communication page with the SMS fields at the top" %}
 
 ## Add your own text
 

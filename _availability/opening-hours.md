@@ -38,7 +38,7 @@ For example, 09:00 to 12:00 and 12:30 to 15:00 closes the resource between 12:00
 3. Find the resource and the date. Clear **Open** to close the day, or change **From** and **To**.
 4. Select **Save**.
 
-{% include figure.html src="/assets/images/availability/opening-hours/01-adjust-availability.png" alt="The Adjust availability form with one row per resource and one column per day" caption="Here Sam Taylor closes at 13:00 on Thursday and is closed on Friday. Priya Shah keeps the default hours." %}
+{% include figure.html src="/assets/images/availability/opening-hours/01-adjust-availability.webp" alt="The Adjust availability form with one row per resource and one column per day" caption="Here Sam Taylor closes at 13:00 on Thursday and is closed on Friday. Priya Shah keeps the default hours." %}
 
 Only the dates you changed are affected. All other weeks keep the default availability.
 

@@ -19,7 +19,7 @@ Give each person their own login. Users are free: you pay per resource, not per 
 3. Choose an **Access level**.
 4. Select **Save user**.
 
-{% include figure.html src="/assets/images/account/users/01-new-user.png" alt="The new user form with name, email and the access level Basic setup" %}
+{% include figure.html src="/assets/images/account/users/01-new-user.webp" alt="The new user form with name, email and the access level Basic setup" %}
 
 The new user receives an email with a link for choosing a password. If the email does not arrive, they can use the forgot password link on the login page.
 

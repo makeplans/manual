@@ -10,7 +10,7 @@ review: needs-espen
 
 Without categories, the booking site lists all your services and event types on one page. If you offer many, group them into categories. Customers then choose a category first and see only the services in it.
 
-{% include figure.html src="/assets/images/services/categories/02-booking-site-categories.png" alt="The booking site asking the customer to select a category: Classes or Treatments" %}
+{% include figure.html src="/assets/images/services/categories/02-booking-site-categories.webp" alt="The booking site asking the customer to select a category: Classes or Treatments" %}
 
 ## Create a category
 
@@ -19,7 +19,7 @@ Without categories, the booking site lists all your services and event types on 
 3. Under **Shows these services**, tick the services and event types that belong in the category.
 4. Select **Save category**.
 
-{% include figure.html src="/assets/images/services/categories/01-category-form.png" alt="The category form with the title Treatments and two services ticked" %}
+{% include figure.html src="/assets/images/services/categories/01-category-form.webp" alt="The category form with the title Treatments and two services ticked" %}
 
 A service can be in more than one category.
 

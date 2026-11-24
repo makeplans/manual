@@ -26,6 +26,8 @@ The feed is one-way and read-only. You see your MakePlans reservations in the ot
 2. Select **Activate account iCalendar-feeds**.
 3. Copy the address.
 
+{% include figure.html src="/assets/images/integrations/calendars/01-account-feeds.webp" alt="The iCalendar-feeds page with the link to activate feeds for the account" %}
+
 ## Add the feed to your calendar
 
 In your calendar app, add a new calendar from an address (often called "subscribe" or "from URL") and paste the address of the feed.

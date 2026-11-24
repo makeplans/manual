@@ -10,7 +10,7 @@ review: needs-espen
 
 Open an event from the **Agenda** or the **Calendar**. The agenda shows how many have signed up next to each event, for example 3/10.
 
-{% include figure.html src="/assets/images/services/events/02-event-page.png" alt="The event page with the event details on the left and three attendants on the right" %}
+{% include figure.html src="/assets/images/services/events/02-event-page.webp" alt="The event page with the event details on the left and three attendants on the right" %}
 
 The right side lists the attendants. The left side shows the event and what you can do with it.
 

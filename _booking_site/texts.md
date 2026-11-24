@@ -10,6 +10,8 @@ review: needs-espen
 
 Open setup and select **Booking site**, then **Texts**. Empty fields use the standard text. Select **Save** when you are done.
 
+{% include figure.html src="/assets/images/booking-site/texts/01-texts.webp" alt="The Booking site texts page" %}
+
 | Field | Where customers see it |
 |---|---|
 | **Footer** | At the bottom of every page. |

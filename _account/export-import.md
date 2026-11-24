@@ -15,7 +15,7 @@ review: needs-espen
 1. Open setup and select **Export**.
 2. Select what to export.
 
-{% include figure.html src="/assets/images/account/export/01-export.png" alt="The export page with a link for each kind of data" %}
+{% include figure.html src="/assets/images/account/export/01-export.webp" alt="The export page with a link for each kind of data" %}
 
 The export is made in the background. After a few minutes you receive an email with a link to the file. **The link works for 15 minutes**, so download the file straight away. If it has expired, run the export again.
 

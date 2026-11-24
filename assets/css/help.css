@@ -111,3 +111,11 @@
 .VPSidebar:not(:has([data-collection="customers"].has-active)) .group:has([data-collection="customers"]) {
   display: none;
 }
+
+/* The same guide also drops the top menu and the search box, so an end customer
+   sees only the guide's own pages. */
+body:has(.VPSidebar [data-collection="customers"].has-active) .VPNavBarMenu,
+body:has(.VPSidebar [data-collection="customers"].has-active) .VPNavBarSearch,
+body:has(.VPSidebar [data-collection="customers"].has-active) .VPNavBarHamburger {
+  display: none;
+}

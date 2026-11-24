@@ -10,6 +10,8 @@ review: needs-espen
 
 Open setup and select **Booking site**, then **General**. Select **Save** after each change.
 
+{% include figure.html src="/assets/images/booking-site/general/01-general-settings.webp" alt="The General booking site settings page with language and verification method" %}
+
 | Setting | What it does |
 |---|---|
 | **The booking site is available to the public** | Clear this to close the booking site, for example while you set it up or during a break. |

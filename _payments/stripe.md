@@ -19,7 +19,7 @@ Stripe lets your customers pay by card when they book. You need your own Stripe 
 3. Log in to Stripe, or create an account, and allow MakePlans to access it.
 4. You are sent back to MakePlans. Choose the MakePlans account to connect.
 
-{% include figure.html src="/assets/images/payments/stripe/01-stripe-integration.png" alt="The Stripe integration page with the Connect to service button and the platform fee" %}
+{% include figure.html src="/assets/images/payments/stripe/01-stripe-integration.webp" alt="The Stripe integration page with the Connect to service button and the platform fee" %}
 
 ## Require payment for a service or event
 

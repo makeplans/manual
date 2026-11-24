@@ -19,6 +19,8 @@ Before a reservation is completed, the customer confirms who they are. This keep
 3. Optionally, tick **Additional methods** to let customers choose between several.
 4. Select **Save**.
 
+{% include figure.html src="/assets/images/booking-site/verification/01-verification-method.webp" alt="The verification method menu set to Email, with SMS, ID-porten and Vipps as additional methods" %}
+
 | Method | How the customer verifies |
 |---|---|
 | **Email** | A code is sent to their email address. |

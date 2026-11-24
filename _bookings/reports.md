@@ -10,7 +10,7 @@ review: needs-espen
 
 Open **Reports** in the main menu for figures on your reservations. The **Overview** gathers the most important numbers, and each report has its own tab.
 
-{% include figure.html src="/assets/images/bookings/reports/01-overview.png" alt="The reports overview with period and filter on the left and key figures, charts and lists on the right" %}
+{% include figure.html src="/assets/images/bookings/reports/01-overview.webp" alt="The reports overview with period and filter on the left and key figures, charts and lists on the right" %}
 
 ## Choose the period
 

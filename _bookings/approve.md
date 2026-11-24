@@ -28,13 +28,13 @@ After completing the booking, the customer sees "Reservation requires confirmati
 
 You receive an email for each new request. In the **Agenda**, the tab **Awaiting confirmation** shows how many are waiting.
 
-{% include figure.html src="/assets/images/bookings/approve/01-awaiting-confirmation.png" alt="The agenda with the Awaiting confirmation tab selected and one reservation waiting" %}
+{% include figure.html src="/assets/images/bookings/approve/01-awaiting-confirmation.webp" alt="The agenda with the Awaiting confirmation tab selected and one reservation waiting" %}
 
 1. Open the **Agenda** and select **Awaiting confirmation**.
 2. Open the reservation. Its status is "Awaiting confirmation".
 3. Select **Confirm** or **Decline**.
 
-{% include figure.html src="/assets/images/bookings/approve/02-reservation-request.png" alt="A reservation with the status Awaiting confirmation and the buttons Confirm and Decline" %}
+{% include figure.html src="/assets/images/bookings/approve/02-reservation-request.webp" alt="A reservation with the status Awaiting confirmation and the buttons Confirm and Decline" %}
 
 When you confirm, the customer receives the normal confirmation. When you decline, the customer is told and the time becomes available to others again.
 

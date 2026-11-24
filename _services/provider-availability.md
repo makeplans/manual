@@ -23,7 +23,7 @@ In this setting, each resource that offers the service is called a provider.
 5. For each resource, tick **Open** on the days the service can be booked and enter **From** and **To**. Select **+ add** for a second period on the same day.
 6. Select **Save**.
 
-{% include figure.html src="/assets/images/services/provider-availability/01-availability-per-provider.png" alt="The availability grid for Physiotherapy consultation, with both resources open Monday to Wednesday from 09:00 to 17:00" %}
+{% include figure.html src="/assets/images/services/provider-availability/01-availability-per-provider.webp" alt="The availability grid for Physiotherapy consultation, with both resources open Monday to Wednesday from 09:00 to 17:00" %}
 
 {% include alert.html type="warning" content="All days start as closed for every provider. Set the hours right after you switch to **Provider**, or the service cannot be booked." %}
 

@@ -10,6 +10,8 @@ review: needs-espen
 
 Open setup and select **Booking site**, then **Forms**.
 
+{% include figure.html src="/assets/images/booking-site/forms/01-forms.webp" alt="The Booking site forms page with the three text fields" %}
+
 | Field | What it does |
 |---|---|
 | **Text displayed before reservation form** | A message shown above the form, such as what to bring. |

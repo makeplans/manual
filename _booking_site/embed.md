@@ -33,6 +33,8 @@ Before it works, you must approve your website's domain.
 
 For security, the booking site can only be embedded on domains you have approved.
 
+{% include figure.html src="/assets/images/booking-site/embed/01-embed.webp" alt="The Embed page with the link for adding your website" %}
+
 1. Open setup and select **Developer**, then **Embed**.
 2. Select **Do you want to embed the booking site on an external website?**
 3. Enter the address of your website with `https://`, for example `https://www.example.com`. Enter the domain only, without a path. One entry covers every page on the domain.

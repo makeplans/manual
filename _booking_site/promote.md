@@ -13,7 +13,7 @@ review: needs-espen
 
 Open setup and select **Promote**. The page shows the address of your booking site and three ways to share it.
 
-{% include figure.html src="/assets/images/getting-started/share/01-promote.png" alt="The Promote page with the booking button generator, link and QR code" %}
+{% include figure.html src="/assets/images/getting-started/share/01-promote.webp" alt="The Promote page with the booking button generator, link and QR code" %}
 
 | | Use it for |
 |---|---|

@@ -12,7 +12,7 @@ review: needs-espen
 
 To add a service, open setup, select **Services**, then **New service**. To change one, select the pencil next to it. Select **Save service** when you are done.
 
-{% include figure.html src="/assets/images/getting-started/services/01-service-form.png" alt="The first part of the service form, from title to the resources that offer the service" %}
+{% include figure.html src="/assets/images/getting-started/services/01-service-form.webp" alt="The first part of the service form, from title to the resources that offer the service" %}
 
 Most services only need a title, a duration and at least one resource. The rest of the form is for special cases.
 

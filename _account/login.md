@@ -14,7 +14,7 @@ review: needs-espen
 
 Select your initials in the top right corner, then **Profile**.
 
-{% include figure.html src="/assets/images/account/profile/01-profile.png" alt="The profile page with contact details, theme, password and 2-step verification" %}
+{% include figure.html src="/assets/images/account/profile/01-profile.webp" alt="The profile page with contact details, theme, password and 2-step verification" %}
 
 | Action | What it does |
 |---|---|

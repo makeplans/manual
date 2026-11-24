@@ -10,7 +10,7 @@ review: needs-espen
 
 The **Calendar** shows your reservations and events on a time grid. Each resource has its own colour. An event shows how many have signed up, such as "Morning yoga (3/10)".
 
-{% include figure.html src="/assets/images/bookings/calendar/01-week.png" alt="The calendar in week view with reservations in two colours, one per resource" %}
+{% include figure.html src="/assets/images/bookings/calendar/01-week.webp" alt="The calendar in week view with reservations in two colours, one per resource" %}
 
 ## Views
 
@@ -25,7 +25,7 @@ Choose a view with the buttons in the top left corner.
 | **timeline** | One day with a row for each resource and the hours across. |
 | **list** | The reservations of the week as a list. |
 
-{% include figure.html src="/assets/images/bookings/calendar/02-day-divided.png" alt="The day (divided) view with one column for Priya Shah and one for Sam Taylor" caption="The day (divided) view has one column per resource." %}
+{% include figure.html src="/assets/images/bookings/calendar/02-day-divided.webp" alt="The day (divided) view with one column for Priya Shah and one for Sam Taylor" caption="The day (divided) view has one column per resource." %}
 
 ## Move between dates
 
@@ -41,7 +41,7 @@ Use **Resources** and **Services** in the top right to show only some resources 
 
 Select a reservation to see its details in a popup: the customer, the time and the status. From there you can change the status, select **Cancel reservation**, **Edit** it, or select **View** to open its page.
 
-{% include figure.html src="/assets/images/bookings/calendar/06-reservation-popup.png" alt="The popup for a reservation, with customer details, status, Cancel reservation, Edit and View" %}
+{% include figure.html src="/assets/images/bookings/calendar/06-reservation-popup.webp" alt="The popup for a reservation, with customer details, status, Cancel reservation, Edit and View" %}
 
 ## Add a reservation or an event
 

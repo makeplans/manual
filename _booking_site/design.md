@@ -13,17 +13,17 @@ review: needs-espen
 
 Open setup and select **Booking site**, then **Design**. Select **Save** after each change.
 
-{% include figure.html src="/assets/images/booking-site/design/01-design-settings.png" alt="The Booking site design page with theme, calendar style, logo and custom CSS" %}
+{% include figure.html src="/assets/images/booking-site/design/01-design-settings.webp" alt="The Booking site design page with theme, calendar style, logo and custom CSS" %}
 
 ## Themes
 
 The **Design theme** decides the look and the steps of your booking site. There are three, each named after the city its designer works in.
 
-{% include figure.html src="/assets/images/booking-site/design/02-theme-timisoara.png" alt="The date and time step in the Timisoara theme" caption="Timisoara" %}
+{% include figure.html src="/assets/images/booking-site/design/02-theme-timisoara.webp" alt="The date and time step in the Timisoara theme" caption="Timisoara" %}
 
-{% include figure.html src="/assets/images/booking-site/design/03-theme-lviv.png" alt="The date and time step in the Lviv theme" caption="Lviv" %}
+{% include figure.html src="/assets/images/booking-site/design/03-theme-lviv.webp" alt="The date and time step in the Lviv theme" caption="Lviv" %}
 
-{% include figure.html src="/assets/images/booking-site/design/04-theme-amsterdam.png" alt="The date and time step in the Amsterdam theme" caption="Amsterdam" %}
+{% include figure.html src="/assets/images/booking-site/design/04-theme-amsterdam.webp" alt="The date and time step in the Amsterdam theme" caption="Amsterdam" %}
 
 | Theme | About |
 |---|---|

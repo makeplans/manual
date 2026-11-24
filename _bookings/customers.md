@@ -16,7 +16,7 @@ Everyone who books gets a customer profile. Open **Customers** in the main menu 
 
 Select a customer to see their contact details, when they registered and all their reservations.
 
-{% include figure.html src="/assets/images/bookings/customers/01-customer-page.png" alt="A customer page with contact details on the left and the customer's reservations on the right" %}
+{% include figure.html src="/assets/images/bookings/customers/01-customer-page.webp" alt="A customer page with contact details on the left and the customer's reservations on the right" %}
 
 | Action | What it does |
 |---|---|

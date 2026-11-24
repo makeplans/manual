@@ -42,7 +42,7 @@ Changing each date works for a day or two but takes time for longer periods. Add
 5. Set **Booked from** and **Booked to** to the first and last day. Tick **All day** to block whole days, for example 24 December to 2 January.
 6. Select **Save appointment**.
 
-{% include figure.html src="/assets/images/availability/time-off/01-busy-reservation.png" alt="The new reservation form with Busy selected" %}
+{% include figure.html src="/assets/images/availability/time-off/01-busy-reservation.webp" alt="The new reservation form with Busy selected" %}
 
 When the period is over, the resource is available again on its normal hours. Add one busy reservation for each resource that is away.
 

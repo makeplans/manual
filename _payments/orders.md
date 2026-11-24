@@ -16,7 +16,7 @@ When a customer buys something on the booking site, such as a product, a pass or
 2. The **Shopping Cart** lists what they have added, with the total. They can **Remove** an item or select **Empty cart**.
 3. They select **Confirm order** and pay at the checkout.
 
-{% include figure.html src="/assets/images/payments/orders/01-cart.png" alt="The shopping cart on the booking site with one pass, the total and the Confirm order button" %}
+{% include figure.html src="/assets/images/payments/orders/01-cart.webp" alt="The shopping cart on the booking site with one pass, the total and the Confirm order button" %}
 
 {% include alert.html type="warning" content="The checkout needs a payment provider. Without one, customers see \"No payment methods available\" and cannot complete the order." %}
 
