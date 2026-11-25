@@ -1,7 +1,8 @@
-/* Light-only site: hide every appearance switch. */
+/* Light-only site: hide every appearance switch. The dots menu holds only that
+   switch and social links, and we have neither, so it goes too. */
 .VPNavBarAppearance,
 .VPNavScreenAppearance,
-.VPNavBarExtra .item.appearance {
+.VPNavBarExtra {
   display: none !important;
 }
 
