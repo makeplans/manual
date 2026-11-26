@@ -6,9 +6,9 @@ nav_order: 4
 
 # 2-step verification (2FA)
 
-2-step verification is what MakePlans calls two-factor authentication (2FA), also known as multi-factor authentication (MFA). When it is on, you log in with your password and a six-digit code from an authenticator app on your phone. Someone who gets hold of your password cannot log in without your phone.
+With 2-step verification, your password alone is not enough to log in. You also enter a six-digit code from an authenticator app on your phone, so someone who gets hold of your password still cannot get in. This is often called two-factor authentication (2FA or MFA).
 
-MakePlans uses time-based one-time passwords (TOTP). This is the open standard used by FreeOTP, Google Authenticator, Microsoft Authenticator, 1Password, Authy and other authenticator apps. Codes by SMS, passkeys and security keys are not supported.
+The codes are time-based one-time passwords (TOTP). TOTP is an open internet standard, published by the IETF as [RFC 6238](https://datatracker.ietf.org/doc/html/rfc6238). It is the standard used by FreeOTP, Google Authenticator, Microsoft Authenticator, 1Password, Authy and other authenticator apps. Codes by SMS, passkeys and security keys are not supported.
 
 ## Before you start
 
