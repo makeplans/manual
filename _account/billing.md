@@ -1,7 +1,7 @@
 ---
 title: "How billing works"
 description: "What you pay for, when you are charged and how to activate your account after the trial."
-nav_order: 5
+nav_order: 6
 redirect_from:
   - /article/18-how-will-i-be-billed
 verified: 2026-11-23

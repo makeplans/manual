@@ -16,6 +16,7 @@ verified: 2026-11-23
 - [Account settings]({% link _account/account-settings.md %})
 - [Users and access levels]({% link _account/users.md %})
 - [Your profile, password and login]({% link _account/login.md %})
+- [2-step verification (2FA)]({% link _account/two-step-verification.md %})
 - [Add-ons: your own domain and senders]({% link _account/addons.md %})
 
 ## Subscription

@@ -1,7 +1,7 @@
 ---
 title: "Delete your account"
 description: "Permanently delete your MakePlans account and all its data."
-nav_order: 8
+nav_order: 9
 redirect_from:
   - /article/16-delete-account
 verified: 2026-11-23

@@ -19,7 +19,7 @@ Select your initials in the top right corner, then **Profile**.
 |---|---|
 | **Edit** | Change your name, phone number, email and the theme of the admin: **Light**, **Dark** or **Auto (follow system)**. |
 | **Modify password** | Enter your current password and a new one. |
-| **Activate 2-step verification** | Requires a code from an app on your phone in addition to your password when you log in. |
+| **Activate 2-step verification** | Turns on two-factor authentication (2FA). You then need a code from an authenticator app on your phone in addition to your password when you log in. See [2-step verification (2FA)]({% link _account/two-step-verification.md %}). |
 
 Use a password you do not use anywhere else, and turn on 2-step verification.
 
@@ -52,4 +52,5 @@ For security, we never hand out access on request alone.
 
 ## Related
 
+- [2-step verification (2FA)]({% link _account/two-step-verification.md %})
 - [Security]({% link _account/security.md %})

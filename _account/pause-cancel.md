@@ -1,7 +1,7 @@
 ---
 title: "Pause, cancel or reactivate"
 description: "Stop your subscription, pause for a season and start again, with all your settings and data kept."
-nav_order: 7
+nav_order: 8
 redirect_from:
   - /article/80-cancel-pause-or-reactivate-your-subscription
 verified: 2026-11-23

@@ -1,7 +1,7 @@
 ---
 title: "Security"
 description: "How to keep your account safe, and technical details for IT departments: IP addresses, webhooks, embedding and senders."
-nav_order: 12
+nav_order: 13
 redirect_from:
   - /article/62-security-considerations
 verified: 2026-11-23
@@ -13,7 +13,7 @@ verified: 2026-11-23
 
 - Give each person their own user. See [Users and access levels]({% link _account/users.md %}).
 - Use a password you do not use anywhere else.
-- Turn on 2-step verification in your profile. See [Your profile, password and login]({% link _account/login.md %}).
+- Turn on 2-step verification (2FA) in your profile. See [2-step verification (2FA)]({% link _account/two-step-verification.md %}).
 - Remove users when people leave.
 - Treat your API key, webhook secret and iCalendar feed addresses like passwords.
 

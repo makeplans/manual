@@ -1,7 +1,7 @@
 ---
 title: "Export and import data"
 description: "Export customers, reservations and other data as CSV files, open them in Excel, and have customers imported."
-nav_order: 9
+nav_order: 10
 redirect_from:
   - /article/86-exporting-importing-and-reporting
 verified: 2026-11-23

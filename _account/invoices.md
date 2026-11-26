@@ -1,7 +1,7 @@
 ---
 title: "Invoices, receipts and paying"
 description: "Find your invoices, change invoice details, pay by invoice or EHF instead of card, and fix a failed payment."
-nav_order: 6
+nav_order: 7
 redirect_from:
   - /article/81-invoices-receipts-and-paying-for-your-subscription
 verified: 2026-11-23

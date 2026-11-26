@@ -1,7 +1,7 @@
 ---
 title: "GDPR and privacy"
 description: "The data processing agreement, where data is stored, and how to give a customer a copy of their data or delete it."
-nav_order: 11
+nav_order: 12
 redirect_from:
   - /article/27-gdpr
 verified: 2026-11-23

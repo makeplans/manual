@@ -24,7 +24,7 @@ The admin has two levels: a main menu for daily work, and a setup menu for every
 On the right are two icons:
 
 - The **cog** opens the setup menu.
-- Your **initials** open the user menu, with **Profile** and **Logout**. In your profile you change your password and can turn on 2-step verification.
+- Your **initials** open the user menu, with **Profile** and **Logout**. In your profile you change your password and can turn on 2-step verification (2FA).
 
 ## The setup menu
 
