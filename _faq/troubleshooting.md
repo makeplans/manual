@@ -4,7 +4,7 @@ description: "What to do when a verification code, a password reset or an export
 nav_order: 5
 redirect_from:
   - /article/97-faq-troubleshooting
-verified: 2026-11-23
+verified: 2026-11-26
 ---
 
 # FAQ: Troubleshooting
@@ -21,6 +21,10 @@ See [Troubleshooting SMS and email delivery]({% link _notifications/troubleshoot
 ## The password reset email does not arrive
 
 Check your spam folder, and that you used the email address you are registered with as a user. See [Your profile, password and login]({% link _account/login.md %}).
+
+## How do I contact support?
+
+Use the chat button in the corner of this page, or email [hello@makeplans.com](mailto:hello@makeplans.com). If you are a customer of a business that uses MakePlans, contact the business. We cannot change your reservation or your details for them.
 
 ## My data export never arrived
 

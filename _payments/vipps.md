@@ -4,7 +4,7 @@ description: "Connect Vipps so customers in Scandinavia can pay for a reservatio
 nav_order: 2
 redirect_from:
   - /article/84-accept-payments-with-vipps
-verified: 2026-11-23
+verified: 2026-11-26
 ---
 
 # Accept payments with Vipps
@@ -28,7 +28,7 @@ When your agreement is approved:
 
 {% include alert.html type="warning" content="Do not add the Vipps integration before your agreement for online payments is ready. With missing or wrong values, customers get an error when they try to pay." %}
 
-## Require payment for a service or event
+## Require pre-payment for a service or event
 
 Connecting Vipps is not enough on its own. For each service or event type that should be paid in advance, enter a price and tick **Pre-payment required**.
 
@@ -53,6 +53,8 @@ A reservation that is not paid is never confirmed.
 ## Payment requests
 
 You can send a Vipps payment request from a reservation, for example to charge after the appointment. The customer must have a phone number and the service must have a price. Tick **Send payment requests** on the Vipps integration page, and a link for sending the request appears on the reservation.
+
+Payment requests must be turned on for your Vipps sales unit by Vipps. Contact support if a request does not reach your customer.
 
 ## Troubleshooting
 

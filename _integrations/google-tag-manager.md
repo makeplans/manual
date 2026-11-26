@@ -4,7 +4,7 @@ description: "Load your Google Tag Manager container on the booking site and use
 nav_order: 17
 redirect_from:
   - /article/25-google-tag-manager
-verified: 2026-11-23
+verified: 2026-11-26
 ---
 
 # Google Tag Manager
@@ -61,11 +61,14 @@ The resource fields on the availability events are only filled in when the visit
 
 In the GA4 tag for `purchase`, turn on **Send Ecommerce data** with the data layer as source. Always forward `transaction_id` unchanged, since Google Analytics uses it to avoid counting a purchase twice.
 
+For every field with examples, and exactly when each event fires, see the [Tracking events reference]({% link _integrations/tracking-events.md %}).
+
 ## Recommended setup
 
 - Use `booking_completed` as your conversion. Mark it as a key event in Google Analytics and import it as a conversion in Google Ads.
 - Trigger on the events, not on page addresses. The address of a service changes if you rename it.
-- Consider merging `view_slots`, `view_available_dates` and `no_availability` into one event in Google Analytics, with a parameter that says whether anything was available. Then the share of visitors who found nothing free is a single number.
+- Consider merging `view_slots`, `view_available_dates` and `no_availability` into one event in Google Analytics, with a parameter that says whether anything was available. Then the share of visitors who found nothing free is a single number. The [Tracking events reference]({% link _integrations/tracking-events.md %}) has the recipe.
+- If you earlier added your own `dataLayer.push` to the no-availability text, remove it. Otherwise `no_availability` is sent twice.
 
 {% include alert.html type="warning" content="If you have entered both a Google Analytics ID and a Tag Manager ID in MakePlans, do not forward `booking_completed` from Tag Manager to Google Analytics. MakePlans sends it to Google Analytics directly, so it would be counted twice." %}
 
@@ -82,3 +85,4 @@ Names of services and resources, which are often names of people, become data in
 ## Related
 
 - [Google Analytics](/integrations/google-analytics/)
+- [Tracking events reference]({% link _integrations/tracking-events.md %})

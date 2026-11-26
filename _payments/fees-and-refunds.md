@@ -42,7 +42,7 @@ You do not get the transaction fees back. With Stripe, the fees for the original
 
 There is no automatic fee for a no-show or a late cancellation. You have two options:
 
-- Require payment in advance for the service.
+- Tick **Pre-payment required** on the service.
 - Let customers save their card with Stripe on their profile. When a reservation has a saved card and the service has a price, you can charge the card from the reservation after it is completed.
 
 A charge you make yourself cannot use BankID or 3-D Secure, so it can fail if the customer's bank demands that.

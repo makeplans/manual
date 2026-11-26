@@ -1,7 +1,7 @@
 ---
 title: "MCP for AI assistants"
 description: "Connect an AI assistant such as Claude to your MakePlans account with MCP."
-nav_order: 19
+nav_order: 21
 verified: 2026-11-23
 ---
 

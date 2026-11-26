@@ -4,7 +4,7 @@ description: "Connect Braintree to take card payments when customers book."
 nav_order: 3
 redirect_from:
   - /article/22-accept-payments-with-braintree
-verified: 2026-11-23
+verified: 2026-11-26
 ---
 
 # Accept payments with Braintree
@@ -18,7 +18,7 @@ Braintree is a card payment provider. You need your own [Braintree](https://www.
 3. Enter **Merchant**, **Public key**, **Private key** and **Cse key** from your Braintree account.
 4. Select **Save integration**.
 
-## Require payment for a service or event
+## Require pre-payment for a service or event
 
 Edit the service or event, enter a price and tick **Pre-payment required**. Customers must then pay by card to complete a reservation for it.
 

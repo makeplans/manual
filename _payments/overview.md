@@ -6,7 +6,7 @@ description: "Take payment when customers book, and handle refunds, coupon codes
 nav_order: 0
 redirect_from:
   - /article/23-accept-payments-with-quickpay
-verified: 2026-11-23
+verified: 2026-11-26
 ---
 
 # Payments and sales
@@ -31,6 +31,8 @@ To take payment you need three things:
 | [Vipps]({% link _payments/vipps.md %}) | Mobile payment in Scandinavia. |
 | [Braintree]({% link _payments/braintree.md %}) | Card payments through Braintree. |
 | [Front Go]({% link _payments/front-go.md %}) | Payments in Norway. |
+
+QuickPay is not supported. Use Stripe instead.
 
 If more than one provider is connected, for example Stripe and Vipps, the customer chooses how to pay. The **Default payment provider** is set in setup under **Account**.
 

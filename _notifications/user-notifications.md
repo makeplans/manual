@@ -2,7 +2,9 @@
 title: "Notifications to you and your staff"
 description: "Choose who in your business is told about new reservations, by email or SMS, for the whole account and per resource."
 nav_order: 5
-verified: 2026-11-23
+redirect_from:
+  - /article/63-user-notifications
+verified: 2026-11-26
 ---
 
 # Notifications to you and your staff
@@ -23,6 +25,8 @@ Open setup and select **Notifications - user**. Select **Save** after your chang
 | **Phone number(s) for notification** | Who receives the SMS. Separate several numbers with a semicolon. |
 
 Under **Automatic messages** you can turn each kind of notification off: email and SMS for new reservation requests, and email and SMS for new reservations. Reservation requests are the ones waiting for your approval. Turn those off if approval is handled in another system through the API.
+
+Reservations that customers make on the booking site always send a notification. The settings for new reservations apply to the ones you and your colleagues add yourselves. Turn them off if you do not want a message each time a colleague adds a reservation in the calendar.
 
 ## Change the text
 

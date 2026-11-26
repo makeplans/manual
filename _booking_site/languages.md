@@ -4,7 +4,7 @@ description: "Set the language of the booking site, offer several languages and 
 nav_order: 3
 redirect_from:
   - /article/90-languages-on-the-booking-site
-verified: 2026-11-23
+verified: 2026-11-26
 ---
 
 # Languages
@@ -53,6 +53,8 @@ To show different labels per language in a custom form, see [localisation in the
 ## Emails and SMS
 
 Confirmations, reminders and cancellation messages are sent in the default language of the booking site, also when customers have chosen another language in the menu. Texts you have written yourself are sent as written, in one language.
+
+Your own texts and SMS can be set up in several languages, but this takes some manual work. Contact support and we will help.
 
 ## Related
 

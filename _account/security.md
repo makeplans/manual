@@ -45,8 +45,9 @@ The booking site has a strict content security policy.
 ### Senders
 
 - Emails are sent from `robot@booking.makeplans.com`, unless you have the add-on for your own sender.
-- SMS are sent from "MakePlans". In some countries they come from a phone number instead, because of local rules.
+- SMS are sent from "MakePlans". In some countries they come from a phone number instead, such as `+19388888601`, because of local rules.
 
 ## Related
 
+- [Bug bounty and reporting a security issue]({% link _account/bug-bounty.md %})
 - [GDPR and privacy]({% link _account/gdpr.md %})

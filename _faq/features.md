@@ -4,7 +4,7 @@ description: "Answers about booking several services, gift cards and passes, Vip
 nav_order: 2
 redirect_from:
   - /article/96-faq-features-and-integrations
-verified: 2026-11-23
+verified: 2026-11-26
 ---
 
 # FAQ: Features and integrations
@@ -40,11 +40,11 @@ See [Languages]({% link _booking_site/languages.md %}).
 
 ## Where do I find my API key?
 
-Open setup and select **Developer**, then **API**. See [Enable the API]({% link _integrations/api.md %}).
+Open setup and select **Developer**, then **API**. Each account has its own API address and its own API key. See [Enable the API]({% link _integrations/api.md %}).
 
 ## How do I track reservations in Google Ads or Tag Manager?
 
-Enter your Google Tag Manager or Google Analytics ID in setup under **Booking site**, then **General**. MakePlans sends a `booking_completed` event when a reservation is completed. Use it as your conversion. See [Google Tag Manager]({% link _integrations/google-tag-manager.md %}).
+Enter your Google Tag Manager or Google Analytics ID in setup under **Booking site**, then **General**. MakePlans sends a `booking_completed` event when a reservation is completed. It is sent only once per reservation. Use it as your conversion. See [Google Tag Manager]({% link _integrations/google-tag-manager.md %}).
 
 ## Do you sign a data processing agreement, and where is the data stored?
 

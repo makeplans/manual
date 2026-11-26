@@ -4,7 +4,7 @@ description: "Connect Stripe to take card payments when customers book, and requ
 nav_order: 1
 redirect_from:
   - /article/17-accept-payments-with-stripe
-verified: 2026-11-23
+verified: 2026-11-26
 ---
 
 # Accept payments with Stripe
@@ -20,7 +20,7 @@ Stripe lets your customers pay by card when they book. You need your own Stripe 
 
 {% include figure.html src="/assets/images/payments/stripe/01-stripe-integration.webp" alt="The Stripe integration page with the Connect to service button and the platform fee" %}
 
-## Require payment for a service or event
+## Require pre-payment for a service or event
 
 1. Edit the service, or the event.
 2. Enter a price.

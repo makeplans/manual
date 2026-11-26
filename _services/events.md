@@ -4,7 +4,7 @@ description: "Create an event type, add single or repeating events, limit attend
 nav_order: 6
 redirect_from:
   - /article/87-events-and-classes-in-practice
-verified: 2026-11-23
+verified: 2026-11-26
 ---
 
 # Event types and events
@@ -79,9 +79,9 @@ When a customer signs up more than one person, the price is multiplied by the nu
 An event has one price. For several price groups you have two options:
 
 - Create one event type per group, such as "Course - adult" and "Course - child", each with its own price. MakePlans cannot check who belongs to which group. If the groups share the same places, you have to watch the total yourself.
-- Give the lower price through a coupon code that members enter when they pay.
+- Give the lower price through a coupon code that members enter when they pay. The code used is shown on the reservation and in the reservations export.
 
-If the price is the same and you only want to know which group someone is in, add a field to the reservation form instead. See [Custom fields]({% link _services/custom-fields.md %}).
+If the price is the same and you only want to know which group someone is in, add a field to the reservation form instead. The number of places cannot be limited per group this way. See [Custom fields]({% link _services/custom-fields.md %}).
 
 ## When customers can sign up
 

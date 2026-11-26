@@ -4,7 +4,7 @@ description: "How customers confirm who they are when they book: by email, SMS, 
 nav_order: 4
 redirect_from:
   - /article/50-booking-verification
-verified: 2026-11-23
+verified: 2026-11-26
 ---
 
 # Verification
@@ -37,7 +37,9 @@ New customers are then asked for their name and contact details. Returning custo
 
 While a customer is completing a reservation, the time is held for them for 20 minutes. This also applies while they are paying. If they have not finished by then, someone else can book the time.
 
-A customer who finishes later still gets the reservation, as long as nobody else has taken the time in the meantime.
+A customer who finishes later still gets the reservation, as long as nobody else has taken the time in the meantime. This is possible until the time of the reservation.
+
+A reservation that is not completed is never confirmed.
 
 Contact support if you need a different holding time than 20 minutes.
 

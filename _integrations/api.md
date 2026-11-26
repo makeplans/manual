@@ -1,7 +1,7 @@
 ---
 title: "Enable the API"
 description: "Turn on the MakePlans API and find your API key, for your own integrations or for apps that connect to MakePlans."
-nav_order: 18
+nav_order: 20
 redirect_from:
   - /article/42-enable-the-api
 verified: 2026-11-23

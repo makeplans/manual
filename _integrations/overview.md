@@ -47,6 +47,8 @@ Integrations connect MakePlans to other services you use. You find them in setup
 
 - [Google Analytics]({% link _integrations/google-analytics.md %})
 - [Google Tag Manager]({% link _integrations/google-tag-manager.md %})
+- [Tracking events reference]({% link _integrations/tracking-events.md %})
+- [Plausible Analytics]({% link _integrations/plausible.md %})
 
 ## For developers
 
@@ -55,6 +57,6 @@ Integrations connect MakePlans to other services you use. You find them in setup
 
 ## More
 
-- [More integrations]({% link _integrations/more.md %}): MailMojo, Sendy, Notion, Highrise, Whereby, WhatsApp, Unloc, BestRx and Extensor
+- [More integrations]({% link _integrations/more.md %}): MailMojo, Sendy, Notion, Highrise, Whereby, WhatsApp, Unloc, BestRx, Extensor and Legelisten
 
 Payment providers are covered in [Payments and sales]({% link _payments/overview.md %}).

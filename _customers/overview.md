@@ -6,6 +6,7 @@ description: "A short guide for people who book an appointment or sign up for an
 nav_order: 0
 redirect_from:
   - /collection/72-how-to-use-the-booking-site
+  - /category/74-uncategorized
 verified: 2026-11-23
 ---
 

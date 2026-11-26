@@ -4,7 +4,7 @@ description: "Give colleagues their own login, choose what they can do, and remo
 nav_order: 2
 redirect_from:
   - /article/48-add-additional-users
-verified: 2026-11-23
+verified: 2026-11-26
 ---
 
 # Users and access levels
@@ -28,7 +28,7 @@ One person can be a user on several accounts.
 
 | Access level | Can do |
 |---|---|
-| **Only calendar** | Use the calendar and agenda, manage reservations and edit customers. No access to setup. |
+| **Only calendar** | Use the calendar and agenda, manage reservations and edit customers. No access to setup. These users get a warning before they delete anything. |
 | **Basic setup** | The same, and set up services, resources and categories. |
 | **Full access** | Everything, including account settings, users, billing and deleting the account. |
 

@@ -4,7 +4,7 @@ description: "Send visits and reservations on your booking site to Google Analyt
 nav_order: 16
 redirect_from:
   - /article/24-google-analytics
-verified: 2026-11-23
+verified: 2026-11-26
 ---
 
 # Google Analytics
@@ -33,12 +33,15 @@ The booking site sends page views and these events:
 | `login` | An existing customer logged in. |
 | `purchase` | A payment was made, with amount, currency and items, so revenue reports work. |
 
-Free reservations, and reservations paid later, send `booking_completed` only.
+Free reservations, and reservations paid later or by invoice, send `booking_completed` only. After a paid checkout of a cart, `booking_completed` is sent once for each reservation in the order.
+
+The events carry details such as the service, the chosen resource and the number of available times. See the [Tracking events reference]({% link _integrations/tracking-events.md %}) for every field.
 
 ## Get useful reports
 
 - Mark `booking_completed` as a key event in Google Analytics. This is your conversion.
-- To see which service and resource an event is about, register `service_title` and `selected_resource_titles` as event-scoped custom dimensions under **Admin**, **Custom definitions**.
+- To see which service and resource an event is about, register `service_title` and `selected_resource_titles` as event-scoped custom dimensions under **Admin**, **Custom definitions**. Do not register `booking_id` or `from_date`. They have too many different values to be useful.
+- Check that `purchase` is marked as a key event too, if you take payment.
 
 {% include alert.html type="warning" content="If you use both Google Analytics and Google Tag Manager in MakePlans, do not forward `booking_completed` from Tag Manager to Google Analytics. MakePlans already sends it directly, so every reservation would be counted twice." %}
 
@@ -49,3 +52,4 @@ Some browsers block tracking, so Google Analytics usually shows fewer reservatio
 ## Related
 
 - [Google Tag Manager](/integrations/google-tag-manager/)
+- [Tracking events reference]({% link _integrations/tracking-events.md %})

@@ -5,7 +5,7 @@ nav_order: 10
 redirect_from:
   - /article/83-embedding-makeplans-in-your-website
   - /article/47-add-to-webflow
-verified: 2026-11-23
+verified: 2026-11-26
 ---
 
 # Embed in your website
@@ -39,7 +39,9 @@ For security, the booking site can only be embedded on domains you have approved
 3. Enter the address of your website with `https://`, for example `https://www.example.com`. Enter the domain only, without a path. One entry covers every page on the domain.
 4. Select **Save**.
 
-Your website must use HTTPS. If the domain is not approved, the iframe stays empty. If an embed that used to work has stopped, a missing or changed domain is almost always the reason.
+Your website must use HTTPS. Approval only applies to HTTPS, so redirect `http` to `https` on your website. Enter the domain without a path, also because Safari has a problem with full addresses.
+
+If the domain is not approved, the iframe stays empty, and the browser console shows a Content Security Policy error that mentions `frame-ancestors`. If an embed that used to work has stopped, a missing or changed domain is almost always the reason.
 
 ### Limits of an iframe
 
@@ -60,6 +62,16 @@ No plugin is needed. Paste the HTML for the link, button or iframe into an HTML 
 | Squarespace | **Code** |
 | Webflow | **Embed**. Without embed support on your plan, add a **Button** and enter the booking site address as its link. |
 | Plain HTML | Paste the code into the page. |
+
+## Link to a service or an event
+
+You do not have to link to the front page of the booking site.
+
+- **A service:** the service page in setup has a direct link to the service on the booking site.
+- **An event:** the event page in the admin has a direct link for signing up.
+- **All events of one type:** the event type page has a link that lists all upcoming events of that type.
+
+Add `?locale=en` to a link to open the booking site in a given language. See [Languages]({% link _booking_site/languages.md %}).
 
 ## Show one employee's times
 

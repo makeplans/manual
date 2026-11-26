@@ -4,7 +4,7 @@ description: "Answers about vacations, buffer time, lead time, free events, rest
 nav_order: 1
 redirect_from:
   - /article/95-faq-setup
-verified: 2026-11-23
+verified: 2026-11-26
 ---
 
 # FAQ: Setup
@@ -29,7 +29,7 @@ Leave the price empty. Do not enter 0. See [Event types and events]({% link _ser
 
 Usually, yes.
 
-- A deleted customer is only made inactive. If you create a customer with the same email or phone number, the old profile comes back.
+- A deleted customer is only made inactive. Restore the customer with **Undelete** on the customer's edit page. If you create a customer with the same email or phone number, the old profile also comes back. See [Customers]({% link _bookings/customers.md %}).
 - Deleted services, resources, events and coupons can often be restored. Contact support and tell us what was deleted.
 - Deleting an event cancels its reservations. They have to be reactivated one by one.
 
@@ -41,7 +41,7 @@ To let only people you have approved book, open setup, select **Booking site**, 
 
 ## Does the booking site adjust to the visitor's time zone?
 
-No. All times are shown in the time zone of your account. If you have customers in several time zones, say which time zone applies in the footer of the booking site. See [Account settings]({% link _account/account-settings.md %}).
+No. All times are shown in the time zone of your account. If you have customers in several time zones, say which time zone applies in the footer of the booking site, or use a separate account for each location. See [Account settings]({% link _account/account-settings.md %}).
 
 ## Can customers see whether a time is free without booking?
 

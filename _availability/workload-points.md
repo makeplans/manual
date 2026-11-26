@@ -4,7 +4,7 @@ description: "Limit how much demanding work a resource takes per day by giving s
 nav_order: 7
 redirect_from:
   - /article/99-daily-workload-points
-verified: 2026-11-23
+verified: 2026-11-26
 ---
 
 # Daily workload points
@@ -23,8 +23,8 @@ The therapist can then be booked for six 30-minute massages, three 60-minute mas
 
 ## Set it up
 
-1. Open setup, select **Services** and edit a service. Enter **Workload points**.
-2. Open setup, select **Resources** and edit a resource. Enter **Max workload points per day**.
+1. Open setup, select **Services** and edit a service. Enter **Workload points**. The field is below the minimum and maximum number of people.
+2. Open setup, select **Resources** and edit a resource. Enter **Max workload points per day**. The field is below the capacity.
 3. Repeat for each service and resource you want to limit.
 
 Both fields take whole numbers above 0. Leave a field empty to turn the limit off.
@@ -50,10 +50,17 @@ Both fields take whole numbers above 0. Leave a field empty to turn the limit of
 - On a full day, a service that no longer fits shows no times. Services that still fit are shown.
 - If the service displays occupied slots, for example because the waitlist is on, the times on a full day are shown as occupied and customers can join the waitlist.
 - A customer moving a reservation sees no times on full days.
+- A customer who tries to book a time on a full day anyway gets the usual message that the time is not available.
 
 ## What you see in the admin
 
 The limit applies to reservations made on the booking site. You can still add and change reservations in the admin on a full day, in the same way as with capacity.
+
+The overview of available times for a service in the admin hides full days, as the booking site does.
+
+## API
+
+Services have the field `workload_points` and resources the field `max_workload_points`. Both are `null` when not set, and both can be set through the API. See [Enable the API]({% link _integrations/api.md %}).
 
 ## Related
 

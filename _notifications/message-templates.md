@@ -2,7 +2,9 @@
 title: "Message templates"
 description: "Send extra messages per reservation: a second confirmation, reminders by email or SMS at times you choose, and follow-ups afterwards."
 nav_order: 3
-verified: 2026-11-23
+redirect_from:
+  - /article/65-message-templates
+verified: 2026-11-26
 ---
 
 # Message templates
@@ -28,13 +30,15 @@ A message template sends an email or SMS for each reservation, at a time you cho
 
 ## What the time is counted from
 
-| Type | Counted from |
-|---|---|
-| Confirmation | When the reservation was made |
-| Reminder | The start of the reservation |
-| Follow up | The end of the reservation |
+| Type | Counted from | Example |
+|---|---|---|
+| Confirmation | When the reservation was made, which for most reservations is also when it is confirmed | `two hours later` |
+| Reminder | The start of the reservation | `20 minutes before` or `2 days before at noon` |
+| Follow up | The end of the reservation | `one week after` |
 
 So `2 days after` on a follow-up means two days after the reservation ended, and `08:00 tomorrow` means 8 AM the day after.
+
+Leave **Deliver at** empty on a confirmation to send it at once, when the reservation is confirmed. With a text such as `two hours later`, it is sent later.
 
 ## Other settings
 

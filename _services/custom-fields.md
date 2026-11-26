@@ -4,7 +4,7 @@ description: "Add your own fields to the reservation form on the booking site an
 nav_order: 9
 redirect_from:
   - /article/51-using-custom-fields
-verified: 2026-11-23
+verified: 2026-11-26
 ---
 
 # Custom fields
@@ -25,6 +25,8 @@ You can add custom fields to reservations, customers, services, events, resource
 | Extra fields in the admin forms | Setup, **Custom fields** |
 
 A field shown on the booking site must also be added to the matching admin form under **Custom fields**, with the same field name. The label can be different.
+
+The forms are written in Liquid. You can use HTML in them, for example for headings, help texts and links.
 
 ## The reservation form on the booking site
 

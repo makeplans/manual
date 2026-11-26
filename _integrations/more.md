@@ -1,8 +1,10 @@
 ---
 title: "More integrations"
-description: "How to connect MailMojo, Sendy, Notion, Highrise, Whereby, WhatsApp, Unloc, BestRx and Extensor."
-nav_order: 20
-verified: 2026-11-23
+description: "How to connect MailMojo, Sendy, Notion, Highrise, Whereby, WhatsApp, Unloc, BestRx, Extensor and Legelisten."
+nav_order: 22
+redirect_from:
+  - /article/64-integrasjon-med-legelisten-no
+verified: 2026-11-26
 ---
 
 # More integrations
@@ -47,3 +49,4 @@ These integrations are connected in setup under **Integrations**. Contact suppor
 |---|---|
 | **BestRx** | Select **Enable**. |
 | **Extensor** | Requires Extensor Online Booking. Select **Start using the Extensor Online Booking integration**. Extensor will contact you. |
+| **Legelisten** | Legelisten.no offers appointment booking for practitioners on its website and has built an integration with MakePlans. It is not in the list under **Integrations**. [Enable the API]({% link _integrations/api.md %}), then send your API key and the address of your MakePlans account to Legelisten's customer service. |

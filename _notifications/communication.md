@@ -2,6 +2,8 @@
 title: "Edit the standard messages"
 description: "Change the text of confirmations, verification messages, reminders and cancellations sent by email and SMS."
 nav_order: 2
+redirect_from:
+  - /article/66-customer-communication
 verified: 2026-11-23
 ---
 

@@ -2,7 +2,7 @@
 title: "General settings"
 description: "Open or close the booking site, limit it to existing customers, show your address and add tracking."
 nav_order: 2
-verified: 2026-11-23
+verified: 2026-11-26
 ---
 
 # General settings
@@ -21,9 +21,9 @@ Open setup and select **Booking site**, then **General**. Select **Save** after 
 | **Do not allow customer to stay logged in with cookie** | Customers must verify themselves on every visit. Use it when customers book from shared computers. |
 | **Only allow reservations from existing customers** | Only people who already have a customer profile can book. New visitors cannot register. |
 | **Visiting address** | Your address, shown to customers. |
-| **Google Analytics tracking ID** | Adds Google Analytics to the booking site. |
-| **Google Tag Manager container ID** | Adds Google Tag Manager to the booking site. |
-| **Enable Plausible Analytics** | Adds Plausible Analytics to the booking site. |
+| **Google Analytics tracking ID** | Adds Google Analytics to the booking site. See [Google Analytics]({% link _integrations/google-analytics.md %}). |
+| **Google Tag Manager container ID** | Adds Google Tag Manager to the booking site. See [Google Tag Manager]({% link _integrations/google-tag-manager.md %}). |
+| **Enable Plausible Analytics** | Adds Plausible Analytics to the booking site. See [Plausible Analytics]({% link _integrations/plausible.md %}). |
 
 ## Related
 

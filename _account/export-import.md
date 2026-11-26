@@ -4,7 +4,7 @@ description: "Export customers, reservations and other data as CSV files, open t
 nav_order: 10
 redirect_from:
   - /article/86-exporting-importing-and-reporting
-verified: 2026-11-23
+verified: 2026-11-26
 ---
 
 # Export and import data
@@ -21,7 +21,7 @@ The export is made in the background. After a few minutes you receive an email w
 | Export | Contains |
 |---|---|
 | **Customers** | Your customer list. |
-| **Reservations** | Reservations with customer details, paid amount, coupon code used and who created or changed them. |
+| **Reservations** | Reservations with customer details, paid amount, invoiced date, coupon code used and who created or changed them. |
 | **Reservations (including cancellations)** | The same, with cancelled reservations. |
 | **Reservations (all)** | Every reservation, whatever its state. |
 | **Events** | Events with their attendants. |
@@ -34,7 +34,7 @@ Answers to [custom fields]({% link _services/custom-fields.md %}) are in the exp
 
 1. Check your spam folder. The email comes from a MakePlans address, not from your own domain.
 2. Run the export again. The email may have arrived and the link expired.
-3. Contact support. We can check whether it was delivered.
+3. Contact support. We can check the delivery log and tell you what to ask your email provider to allow.
 
 ## Open the file in Excel
 

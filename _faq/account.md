@@ -4,7 +4,7 @@ description: "Answers about the free trial, cancelling, pausing, paying by invoi
 nav_order: 3
 redirect_from:
   - /article/93-faq-account-and-billing
-verified: 2026-11-23
+verified: 2026-11-26
 ---
 
 # FAQ: Account and billing
@@ -31,7 +31,7 @@ A receipt with the invoice is emailed to your billing address after each payment
 
 ## Do you have a discount for non-profits?
 
-Yes. Contact us with a short description of how you will use MakePlans.
+Yes, for non-profit and volunteer organisations. The size of the discount depends on how much you will use MakePlans, such as how many resources you need. Contact us with a short description. You do not need to send any papers. We trust that you are a non-profit.
 
 ## Why did my price change, or why does my invoice show quantity 2?
 

@@ -32,3 +32,4 @@ verified: 2026-11-23
 - [Delete old data]({% link _account/delete-old-data.md %})
 - [GDPR and privacy]({% link _account/gdpr.md %})
 - [Security]({% link _account/security.md %})
+- [Bug bounty and reporting a security issue]({% link _account/bug-bounty.md %})

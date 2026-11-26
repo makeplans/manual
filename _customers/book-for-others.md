@@ -4,7 +4,7 @@ description: "How to book an appointment for your child or another person with y
 nav_order: 5
 redirect_from:
   - /article/75-how-to-book-for-other-people
-verified: 2026-11-23
+verified: 2026-11-26
 ---
 
 # Book for someone else
@@ -15,6 +15,8 @@ Your profile belongs to you: it is tied to your email address and mobile number.
 2. On the last step, select **Book for someone else**.
 3. Enter the other person's name and details and save.
 4. The booking now shows that it is for the other person. Complete it as usual.
+
+If you do not see **Book for someone else**, the booking site you are using does not have it. The other person then has to book with their own email address or mobile number, or you can ask the business to add the reservation for you.
 
 Next time, the people you have added are saved. Select **Change** next to the name to pick one of them, or to add another person.
 

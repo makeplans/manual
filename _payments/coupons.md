@@ -1,13 +1,13 @@
 ---
 title: "Coupon codes"
-description: "Create coupon codes that give customers a discount as an amount or a percentage, with limits on time, use and services."
+description: "Create coupon codes (discount codes) that give customers a discount as an amount or a percentage, with limits on time, use and services."
 nav_order: 6
-verified: 2026-11-23
+verified: 2026-11-26
 ---
 
 # Coupon codes
 
-A coupon code gives the customer a discount when they pay for a reservation. The field for the code appears in the reservation form when the service can be paid for.
+A coupon code, also called a discount code, gives the customer a discount when they pay for a reservation. The field for the code appears in the reservation form when the service can be paid for.
 
 ## Create a coupon code
 

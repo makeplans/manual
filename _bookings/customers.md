@@ -4,7 +4,8 @@ description: "Find, add and edit customers, see their reservations, merge duplic
 nav_order: 7
 redirect_from:
   - /article/88-fixing-customer-record-problems
-verified: 2026-11-23
+  - /article/56-what-information-can-be-stored-on-the-customer-profile-and-booking
+verified: 2026-11-26
 ---
 
 # Customers
@@ -25,6 +26,21 @@ Select a customer to see their contact details, when they registered and all the
 | **Email export of data to customer** | Sends the customer a copy of the data you hold about them. |
 | **Show all reservations including deleted** | Also lists cancelled reservations. |
 
+## What is stored on a customer
+
+A customer profile can hold:
+
+- Name
+- Email and mobile phone number
+- Street address, postal code, city, state and country
+- Date of birth
+- National ID number
+- Notes
+
+A reservation holds when it starts and ends, the service, the resource, the number of people, and the price if the service has one.
+
+You can add fields of your own to customers, reservations and most other things in MakePlans, and ask customers for them in the reservation form. See [Custom fields]({% link _services/custom-fields.md %}).
+
 ## Add a customer
 
 Select **New customer**, fill in the name and contact details, and select **Save customer**. Customers are also created automatically when someone books on the booking site, and when you type a new name in the reservation form.
@@ -41,7 +57,7 @@ When someone books, MakePlans looks up the profile with that email or phone numb
 
 This message means another profile already has that email or phone number. Search for the email or number to find it.
 
-The other profile may have been deleted. Deleted customers are not shown in the normal list. If you create a customer with the email or phone number of a deleted one, the old profile is restored with the new details.
+The other profile may have been deleted. Deleted customers are not shown in the normal list. Switch the list to show inactive customers to find it. If you create a customer with the email or phone number of a deleted one, the old profile is restored with the new details.
 
 ## Merge duplicates
 
@@ -59,6 +75,8 @@ Two customers cannot have the same phone number or email. This matters for famil
 
 Instead, let the parent book for the child as a connected customer. On the booking site, a logged-in customer selects **Book for someone else** before completing the booking. This creates a separate profile for the child, linked to the parent. You can do the same in the admin with **Add connected customer**.
 
+**Book for someone else** is available in the design themes **Timisoara** and **Lviv**, not in **Amsterdam**. See [Design]({% link _booking_site/design.md %}) for how to change theme. With Amsterdam, each person has to book with their own phone number or email, or you add the reservation yourself in the admin.
+
 ## "The values do not match your profile"
 
 A customer sees this warning on the booking site when the email or phone number matches a profile but something else, usually the name, does not. Common reasons:
@@ -72,6 +90,15 @@ The customer can choose to continue anyway. To stop the warning coming back, cor
 ## Delete a customer
 
 Open the customer, select **Edit**, then **Delete**.
+
+A deleted customer is not removed. The profile is made inactive and hidden from the normal list.
+
+## Restore a deleted customer
+
+1. Switch the customer list to show inactive customers and open the customer.
+2. Select **Edit**, then **Undelete**.
+
+A deleted profile is also restored automatically if you create a customer with the same email or phone number.
 
 ## Related
 
