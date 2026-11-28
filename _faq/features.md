@@ -30,9 +30,9 @@ Yes to both. With Stripe, MakePlans charges a platform fee of 2% in addition to 
 
 No. You can show your MakePlans reservations in other calendars with an iCalendar feed, but it is one-way and read-only. Appointments in your other calendar do not block times in MakePlans. See [Show reservations in other calendars]({% link _integrations/calendars.md %}).
 
-## Is there a mobile app?
+## Is there a mobile app for iPhone or Android?
 
-No, and you do not need one. Both the admin and the booking site work in the browser on your phone. To get an icon on your home screen, open MakePlans in the browser and choose "Add to Home Screen" from the browser's menu.
+Not in the App Store or on Google Play. MakePlans is a web app, built on open web standards, so both the admin and the booking site work in the browser on any phone. Add MakePlans to your home screen and it gets its own icon and opens full screen like any other app. See [Use MakePlans as an app on your phone]({% link _getting_started/mobile-app.md %}).
 
 ## Which languages can the booking site use?
 

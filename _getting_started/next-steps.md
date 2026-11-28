@@ -18,4 +18,5 @@ Your booking site is live and you have tested it. These are the things most busi
 | Take payment when customers book | [Payments]({% link _payments/overview.md %}) |
 | Block holidays and time off | [Resources and availability]({% link _availability/overview.md %}) |
 | Run classes and events | [Services and events]({% link _services/overview.md %}) |
+| Get MakePlans as an app on your phone | [Use MakePlans as an app on your phone]({% link _getting_started/mobile-app.md %}) |
 | Show reservations in your own calendar app | [Integrations]({% link _integrations/overview.md %}) |

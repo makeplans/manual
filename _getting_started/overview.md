@@ -20,3 +20,4 @@ This section takes you from a new account to a booking site your customers can u
 7. [Share your booking site]({% link _getting_started/share-booking-site.md %}): link, button and QR code.
 8. [Activate your account]({% link _getting_started/activate-account.md %}): what the trial includes and how to continue after it.
 9. [Next steps]({% link _getting_started/next-steps.md %}): notifications, payments and more users.
+10. [Use MakePlans as an app on your phone]({% link _getting_started/mobile-app.md %}): add it to your home screen on iPhone or Android.
